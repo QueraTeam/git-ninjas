@@ -8,6 +8,7 @@
 |Full Name| Social Address |
 |--|--|
 | Seyed Ali Babaei | [Linkedin](https://www.linkedin.com/in/mrsalib/) |
-| Ali Shafiee | [Linkedin](https://www.linkedin.com/in/ali-shafiee-688446168/) |
+| Ali Shafiee | [Linkedin](https://www.linkedin.com/in/ali-shafiee-688446168/) | 
+|Mahyar Riazati| [Linkedin](https://www.linkedin.com/in/mhyrzt/)|
+| Ali Safinal | [Linkedin](https://www.linkedin.com/in/safinal/) |
 | Mohammad Shafei | [Linkedin](https://www.linkedin.com/in/mohammad-shafei-6b2486202/) |
-
