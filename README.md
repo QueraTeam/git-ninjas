@@ -19,3 +19,4 @@ If you've finished the course, please add your name and one of your social pages
 | Mohammad Shafei | [Linkedin](https://www.linkedin.com/in/mohammad-shafei-6b2486202/) |
 | Yousef Mahdipoor | [Linkedin](https://www.linkedin.com/in/yousef-mahdipoor/) |
 | Nima HeydariNasab | [Linkedin](https://www.linkedin.com/in/nimah79/) |
+| Seyed Omid Mazlomy | [linkedin](https://www.linkedin.com/in/omid-mazlomy-0162b3159/) |
