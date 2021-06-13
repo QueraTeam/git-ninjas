@@ -1,9 +1,14 @@
 # Quera Git Course
-## bye-git
 
-### These are students of git course at Quera.ir 
+[Quera College](https://quera.ir/college/) is Quera's online interactive learning platform offering multiple programming and software development courses.
+
+This repo is about our [Practical Git](https://quera.ir/college/land/register/8241/) course, and contains a list of users that successfully finished the course.
+
+## Add your name
+
+If you've finished the course, please add your name and one of your social pages (e.g. LinkedIn, Twitter, Instagram, ...) in a Pull Request.
+
 ---
-##### If you're one of them, Add your name and one of your social pages. (e.g. Linkedin, Twitter, Instagram, etc.)
 
 |Full Name| Social Address |
 |--|--|
