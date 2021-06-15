@@ -23,3 +23,4 @@ If you've finished the course, please add your name and one of your social pages
 | Seyed Masoud Hosseini | [Linkedin](https://www.linkedin.com/in/seyedmasoud-hosseini/) |
 | Mehdi Mostafavi | [Linkedin](https://www.linkedin.com/in/mehdimstv/) |
 | Alireza Vahidi | [Linkedin](https://www.linkedin.com/in/alireza-vahidi-633168181/) |
+| Hootan Hemmati | [Linkedin](https://www.linkedin.com/in/hootan-ht-31888a157/) |
