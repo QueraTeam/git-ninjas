@@ -14,7 +14,7 @@ If you've finished the course, please add your name and one of your social pages
 |--|--|
 | Seyed Ali Babaei | [Linkedin](https://www.linkedin.com/in/mrsalib/) |
 | Ali Shafiee | [Linkedin](https://www.linkedin.com/in/ali-shafiee-688446168/) | 
-|Mahyar Riazati| [Linkedin](https://www.linkedin.com/in/mhyrzt/)|
+| Mahyar Riazati| [Linkedin](https://www.linkedin.com/in/mhyrzt/)|
 | Ali Safinal | [Linkedin](https://www.linkedin.com/in/safinal/) |
 | Mohammad Shafei | [Linkedin](https://www.linkedin.com/in/mohammad-shafei-6b2486202/) |
 | Yousef Mahdipoor | [Linkedin](https://www.linkedin.com/in/yousef-mahdipoor/) |
@@ -23,4 +23,5 @@ If you've finished the course, please add your name and one of your social pages
 | Seyed Masoud Hosseini | [Linkedin](https://www.linkedin.com/in/seyedmasoud-hosseini/) |
 | Mehdi Mostafavi | [Linkedin](https://www.linkedin.com/in/mehdimstv/) |
 | Alireza Vahidi | [Linkedin](https://www.linkedin.com/in/alireza-vahidi-633168181/) |
+| Mahan Maleki| [Linkedin](www.linkedin.com/in/mahan-maleki-5a7b97179)
 | Hootan Hemmati | [Linkedin](https://www.linkedin.com/in/hootan-ht-31888a157/) |
