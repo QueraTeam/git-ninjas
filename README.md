@@ -25,3 +25,4 @@ If you've finished the course, please add your name and one of your social pages
 | Alireza Vahidi | [Linkedin](https://www.linkedin.com/in/alireza-vahidi-633168181/) |
 | Mahan Maleki| [Linkedin](www.linkedin.com/in/mahan-maleki-5a7b97179)
 | Hootan Hemmati | [Linkedin](https://www.linkedin.com/in/hootan-ht-31888a157/) |
+| Peyman Najafi | [Quera](https://quera.ir/profile/peyman) |
