@@ -12,6 +12,7 @@ If you've finished the course, please add your name and one of your social pages
 
 |Full Name| Social Address |
 |--|--|
+| Majid BehnamFard | [Linkedin](https://www.linkedin.com/in/majid-behnamfard-88a46b131/) |
 | Seyed Ali Babaei | [Linkedin](https://www.linkedin.com/in/mrsalib/) |
 | Ali Shafiee | [Linkedin](https://www.linkedin.com/in/ali-shafiee-688446168/) | 
 | Mahyar Riazati| [Linkedin](https://www.linkedin.com/in/mhyrzt/)|
