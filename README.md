@@ -8,8 +8,6 @@ This repo is about our [Practical Git](https://quera.ir/college/land/register/82
 
 If you've finished the course, please add your name and one of your social pages (e.g. LinkedIn, Twitter, Instagram, ...) in a Pull Request.
 
----
-
 |Full Name| Social Address | 
 |--|--| 
 | Seyed Ali Babaei | [Linkedin](https://www.linkedin.com/in/mrsalib/) | 
@@ -28,3 +26,4 @@ If you've finished the course, please add your name and one of your social pages
 | Hootan Hemmati | [Linkedin](https://www.linkedin.com/in/hootan-ht-31888a157/) |
 | Morteza Haghbeigi | [Linkedin] (https://www.linkedin.com/in/mortaza-haghbeigi-7a857457/) |
 | Hamidreza Ghavidel | [Linkedin](https://www.linkedin.com/in/hamidreza-ghavidel/) |
+| Majid BehnamFard | [Linkedin](https://www.linkedin.com/in/majid-behnamfard-88a46b131/) |
