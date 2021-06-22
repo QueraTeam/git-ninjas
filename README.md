@@ -27,3 +27,4 @@ If you've finished the course, please add your name and one of your social pages
 | Morteza Haghbeigi | [Linkedin](https://www.linkedin.com/in/mortaza-haghbeigi-7a857457/) |
 | Hamidreza Ghavidel | [Linkedin](https://www.linkedin.com/in/hamidreza-ghavidel/) |
 | Majid BehnamFard | [Linkedin](https://www.linkedin.com/in/majid-behnamfard-88a46b131/) |
+| Saeed Jafarian | [Linkedin](https://www.linkedin.com/in/saeed-jafarian-54b2571bb/) 
