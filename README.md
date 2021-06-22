@@ -26,3 +26,4 @@ If you've finished the course, please add your name and one of your social pages
 | Mahan Maleki| [Linkedin](www.linkedin.com/in/mahan-maleki-5a7b97179)
 | Hootan Hemmati | [Linkedin](https://www.linkedin.com/in/hootan-ht-31888a157/) |
 | Morteza Haghbeigi | [Linkedin] (https://www.linkedin.com/in/mortaza-haghbeigi-7a857457/) |
+| Hamidreza Ghavidel | [Linkedin](https://www.linkedin.com/in/hamidreza-ghavidel/) |
