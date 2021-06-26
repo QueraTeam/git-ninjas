@@ -30,4 +30,4 @@ If you've finished the course, please add your name and one of your social pages
 | Majid BehnamFard | [Linkedin](https://www.linkedin.com/in/majid-behnamfard-88a46b131/) |
 | Alma Sadat Pourhosseini | [Linkedin](https://www.linkedin.com/in/alma-pourhosseni-4b018a1b4/) |
 | Omid Morovati | [Linkedin](https://www.linkedin.com/in/omid-morovati-63ba74b8) |
-
+| Saeed Jafarian | [Linkedin](https://www.linkedin.com/in/saeed-jafarian-54b2571bb/) 
