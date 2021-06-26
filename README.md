@@ -10,7 +10,7 @@ If you've finished the course, please add your name and one of your social pages
 
 |Full Name| Social Address | 
 |--|--| 
-| Seyed Ali Babaei | [Linkedin](https://www.linkedin.com/in/mrsalib/) | 
+| Seyed Ali Babaei | [Linkedin](https://www.linkedin.com/in/mrsalib/) |  
 | Ali Shafiee | [Linkedin](https://www.linkedin.com/in/ali-shafiee-688446168/) | 
 | Mahyar Riazati| [Linkedin](https://www.linkedin.com/in/mhyrzt/)|
 | Ali Safinal | [Linkedin](https://www.linkedin.com/in/safinal/) |
@@ -27,4 +27,6 @@ If you've finished the course, please add your name and one of your social pages
 | Morteza Haghbeigi | [Linkedin](https://www.linkedin.com/in/mortaza-haghbeigi-7a857457/) |
 | Hamidreza Ghavidel | [Linkedin](https://www.linkedin.com/in/hamidreza-ghavidel/) |
 | Majid BehnamFard | [Linkedin](https://www.linkedin.com/in/majid-behnamfard-88a46b131/) |
-|Alma Sadat Pourhosseini | [Linkdin](https://www.linkedin.com/in/alma-pourhosseni-4b018a1b4/) |
+| Alma Sadat Pourhosseini | [Linkdin](https://www.linkedin.com/in/alma-pourhosseni-4b018a1b4/) |
+| Omid Morovati | [Linkedin](https://www.linkedin.com/in/omid-morovati-63ba74b8) |
+
