@@ -33,4 +33,4 @@ If you've finished the course, please add your name and one of your social pages
 | Saeed Jafarian | [Linkedin](https://www.linkedin.com/in/saeed-jafarian-54b2571bb/) |
 | Roozbeh Dargahi | [Quera](https://quera.ir/profile/RoozbehDK) |
 | Sobhan Safdarian | [Quera](https://quera.ir/profile/sobhan.saf79) |
-
+| Mohammad Hussein Vaez | [Twitter](https://twitter.com/Mohuva13) |
