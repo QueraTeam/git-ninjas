@@ -34,3 +34,5 @@ If you've finished the course, please add your name and one of your social pages
 | Roozbeh Dargahi | [Quera](https://quera.ir/profile/RoozbehDK) |
 | Sobhan Safdarian | [Quera](https://quera.ir/profile/sobhan.saf79) |
 | Mohammad Hussein Vaez | [Twitter](https://twitter.com/Mohuva13) |
+| Mohammad Amini Nasab | [Linkedin](linkedin.com/in/mohammad-amini-nasab-093ab418a)|
+
