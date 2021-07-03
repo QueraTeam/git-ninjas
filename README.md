@@ -37,3 +37,4 @@ If you've finished the course, please add your name and one of your social pages
 | Mohammad Amini Nasab | [Linkedin](linkedin.com/in/mohammad-amini-nasab-093ab418a)|
 | Muhammad Mahdi Naghibi | [Linkedin](www.linkedin.com/in/seyed-muhammad-mahdi-naghibi) |
 | Pooria Faghfoori | [Linkedin](https://www.linkedin.com/in/pooria-faghfoori-850965202/) |
+| Alireza Rahmani Samani | [Linkedin](https://www.linkedin.com/in/alireza-rahmani-996477216/) |
