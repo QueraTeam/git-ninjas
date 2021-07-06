@@ -38,3 +38,4 @@ If you've finished the course, please add your name and one of your social pages
 | Muhammad Mahdi Naghibi | [Linkedin](www.linkedin.com/in/seyed-muhammad-mahdi-naghibi) |
 | Pooria Faghfoori | [Linkedin](https://www.linkedin.com/in/pooria-faghfoori-850965202/) |
 | Hadi Sotudeh | [LinkedIn](https://www.linkedin.com/in/hadisotudeh) |
+| Parisa Khania | [Linkedin](https://www.linkedin.com/in/parisa-khania/) |
