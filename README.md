@@ -8,10 +8,10 @@ This repo is about our [Practical Git](https://quera.ir/college/land/register/82
 
 If you've finished the course, please add your name and one of your social pages (e.g. LinkedIn, Twitter, Instagram, ...) in a Pull Request.
 
-|Full Name| Social Address | 
-|--|--| 
-| Seyed Ali Babaei | [Linkedin](https://www.linkedin.com/in/mrsalib/) |  
-| Ali Shafiee | [Linkedin](https://www.linkedin.com/in/ali-shafiee-688446168/) | 
+|Full Name| Social Address |
+|--|--|
+| Seyed Ali Babaei | [Linkedin](https://www.linkedin.com/in/mrsalib/) |
+| Ali Shafiee | [Linkedin](https://www.linkedin.com/in/ali-shafiee-688446168/) |
 | Mahyar Riazati| [Linkedin](https://www.linkedin.com/in/mhyrzt/)|
 | Ali Safinal | [Linkedin](https://www.linkedin.com/in/safinal/) |
 | Peyman Najafi | [Quera](https://quera.ir/profile/peyman) |
@@ -23,7 +23,7 @@ If you've finished the course, please add your name and one of your social pages
 | Seyed Masoud Hosseini | [Linkedin](https://www.linkedin.com/in/seyedmasoud-hosseini/) |
 | Mehdi Mostafavi | [Linkedin](https://www.linkedin.com/in/mehdimstv/) |
 | Alireza Vahidi | [Linkedin](https://www.linkedin.com/in/alireza-vahidi-633168181/) |
-| Mahan Maleki| [Linkedin](www.linkedin.com/in/mahan-maleki-5a7b97179)
+| Mahan Maleki| [Linkedin](www.linkedin.com/in/mahan-maleki-5a7b97179)|
 | Hootan Hemmati | [Linkedin](https://www.linkedin.com/in/hootan-ht-31888a157/) |
 | Morteza Haghbeigi | [Linkedin](https://www.linkedin.com/in/mortaza-haghbeigi-7a857457/) |
 | Hamidreza Ghavidel | [Linkedin](https://www.linkedin.com/in/hamidreza-ghavidel/) |
@@ -31,4 +31,14 @@ If you've finished the course, please add your name and one of your social pages
 | Alma Sadat Pourhosseini | [Linkedin](https://www.linkedin.com/in/alma-pourhosseni-4b018a1b4/) |
 | Omid Morovati | [Linkedin](https://www.linkedin.com/in/omid-morovati-63ba74b8) |
 | Saeed Jafarian | [Linkedin](https://www.linkedin.com/in/saeed-jafarian-54b2571bb/) |
+| Roozbeh Dargahi | [Quera](https://quera.ir/profile/RoozbehDK) |
+| Sobhan Safdarian | [Quera](https://quera.ir/profile/sobhan.saf79) |
+| Mohammad Hussein Vaez | [Twitter](https://twitter.com/Mohuva13) |
+| Mohammad Amini Nasab | [Linkedin](linkedin.com/in/mohammad-amini-nasab-093ab418a)|
+| Muhammad Mahdi Naghibi | [Linkedin](https://www.linkedin.com/in/seyed-muhammad-mahdi-naghibi/) |
+| Pooria Faghfoori | [Linkedin](https://www.linkedin.com/in/pooria-faghfoori-850965202/) |
+| Hadi Sotudeh | [LinkedIn](https://www.linkedin.com/in/hadisotudeh) |
+| Parisa Khania | [Linkedin](https://www.linkedin.com/in/parisa-khania/) |
+| Komeil Yeganeh | [Linkedin](https://www.linkedin.com/in/komeil-yeganeh/) |
+| Amir Rajabi | [Linkedin](https://www.linkedin.com/in/amir-rajabi-623ba5150) |
 | Muhammad Mahdi Naghibi | [Linkedin](https://www.linkedin.com/in/seyed-muhammad-mahdi-naghibi/) | 
