@@ -41,5 +41,4 @@ If you've finished the course, please add your name and one of your social pages
 | Parisa Khania | [Linkedin](https://www.linkedin.com/in/parisa-khania/) |
 | Komeil Yeganeh | [Linkedin](https://www.linkedin.com/in/komeil-yeganeh/) |
 | Amir Rajabi | [Linkedin](https://www.linkedin.com/in/amir-rajabi-623ba5150) |
-| Muhammad Mahdi Naghibi | [Linkedin](https://www.linkedin.com/in/seyed-muhammad-mahdi-naghibi/) | 
 | Mohammad Abbasi | [Twitter](https://twitter.com/mohammadv184) |
