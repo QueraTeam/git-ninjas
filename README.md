@@ -46,3 +46,4 @@ If you've finished the course, please add your name and one of your social pages
 | Alireza Rahmani Samani | [Linkedin](https://www.linkedin.com/in/alireza-rahmani-996477216/) |
 | Amir Amirpoor | [Github](https://github.com/AmirAmirpoor) |
 | Mehrdad Khojastefar | [Linkedin](https://www.linkedin.com/in/mehrdad-khojastefar-571770202/)|
+| Amirmohammad Kazemi | [Linkedin](https://www.linkedin.com/in/amirmohammad-kazemi/) |
