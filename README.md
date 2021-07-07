@@ -45,3 +45,4 @@ If you've finished the course, please add your name and one of your social pages
 | Mohammad Abbasi | [Twitter](https://twitter.com/mohammadv184) |
 | Alireza Rahmani Samani | [Linkedin](https://www.linkedin.com/in/alireza-rahmani-996477216/) |
 | Amir Amirpoor | [Github](https://github.com/AmirAmirpoor) |
+| Mehrdad Khojastefar | [Linkedin](https://www.linkedin.com/in/mehrdad-khojastefar-571770202/)|
