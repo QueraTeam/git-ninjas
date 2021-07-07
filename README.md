@@ -43,3 +43,4 @@ If you've finished the course, please add your name and one of your social pages
 | Amir Rajabi | [Linkedin](https://www.linkedin.com/in/amir-rajabi-623ba5150) |
 | Muhammad Mahdi Naghibi | [Linkedin](https://www.linkedin.com/in/seyed-muhammad-mahdi-naghibi/) | 
 | Mohammad Abbasi | [Twitter](https://twitter.com/mohammadv184) |
+| Parham Rouzbeh | [Linkedin](https://www.linkedin.com/in/parham-rouzbeh-a74334b7/) |
