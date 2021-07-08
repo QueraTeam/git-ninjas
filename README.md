@@ -47,3 +47,4 @@ If you've finished the course, please add your name and one of your social pages
 | Amir Amirpoor | [Github](https://github.com/AmirAmirpoor) |
 | Mehrdad Khojastefar | [Linkedin](https://www.linkedin.com/in/mehrdad-khojastefar-571770202/)|
 | Amirmohammad Kazemi | [Linkedin](https://www.linkedin.com/in/amirmohammad-kazemi/) |
+| Seyed Ahmad Bakhshian Tizabi | [Linkedin](https://www.linkedin.com/in/seyed-ahmad-bakhshian-406175201/) |
