@@ -56,5 +56,6 @@ If you've finished the course, please add your name and one of your social pages
 | Behrad Fathi | [Linkedin](https://www.linkedin.com/in/behrad-fathi-56200a208/) |
 | Mohammadali Davarzani | [Github](https://github.com/mohammadali-davarzani/) |
 | Alireza Selseleh | [Linkedin](https://www.linkedin.com/in/alireza-selseleh-334b36189/) |
+| Mohsen Bagheri | [Quera](https://quera.ir/profile/MohsenBg) |
 
 
