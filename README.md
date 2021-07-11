@@ -52,5 +52,5 @@ If you've finished the course, please add your name and one of your social pages
 | Zahra Ostadmohammadi Arani | [Linkedin](www.linkedin.com/in/zahra-ostadmohammadi-6a5057217) |
 | Seyed Ahmad Bakhshian Tizabi | [Linkedin](https://www.linkedin.com/in/seyed-ahmad-bakhshian-406175201/) |
 | Erfaneh Sahraei | [Linkedin](https://www.linkedin.com/in/erfaneh-sahraei) |
-
+| Ali Vasisari |[Linkedin](https://www.linkedin.com/in/ali-vasi-sari-93269b1a6/) |
 
