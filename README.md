@@ -50,4 +50,6 @@ If you've finished the course, please add your name and one of your social pages
 | Parham Rouzbeh | [Linkedin](https://www.linkedin.com/in/parham-rouzbeh-a74334b7/) |
 | Mo'men Hamaveisi | [Linkedin](https://www.linkedin.com/in/mo-men-hamaveisi-2784091b5) |
 | Zahra Ostadmohammadi Arani | [Linkedin](www.linkedin.com/in/zahra-ostadmohammadi-6a5057217) |
+| Seyed Ahmad Bakhshian Tizabi | [Linkedin](https://www.linkedin.com/in/seyed-ahmad-bakhshian-406175201/) |
+
 
