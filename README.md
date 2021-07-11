@@ -48,3 +48,5 @@ If you've finished the course, please add your name and one of your social pages
 | Mehrdad Khojastefar | [Linkedin](https://www.linkedin.com/in/mehrdad-khojastefar-571770202/)|
 | Amirmohammad Kazemi | [Linkedin](https://www.linkedin.com/in/amirmohammad-kazemi/) |
 | Parham Rouzbeh | [Linkedin](https://www.linkedin.com/in/parham-rouzbeh-a74334b7/) |
+| Mo'men Hamaveisi | [Linkedin](https://www.linkedin.com/in/mo-men-hamaveisi-2784091b5) |
+
