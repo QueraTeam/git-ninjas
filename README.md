@@ -53,4 +53,6 @@ If you've finished the course, please add your name and one of your social pages
 | Seyed Ahmad Bakhshian Tizabi | [Linkedin](https://www.linkedin.com/in/seyed-ahmad-bakhshian-406175201/) |
 | Erfaneh Sahraei | [Linkedin](https://www.linkedin.com/in/erfaneh-sahraei) |
 | Ali Vasisari |[Linkedin](https://www.linkedin.com/in/ali-vasi-sari-93269b1a6/) |
+| Behrad Fathi | [Linkedin](https://www.linkedin.com/in/behrad-fathi-56200a208/) |
+
 
