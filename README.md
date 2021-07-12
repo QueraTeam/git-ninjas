@@ -10,6 +10,7 @@ If you've finished the course, please add your name and one of your social pages
 
 |Full Name| Social Address |
 |--|--|
+| Rasoul Ajormal | [Instagram](https://www.instagram.com/rasul.ajormal/) |
 | Seyed Ali Babaei | [Linkedin](https://www.linkedin.com/in/mrsalib/) |
 | Ali Shafiee | [Linkedin](https://www.linkedin.com/in/ali-shafiee-688446168/) |
 | Mahyar Riazati| [Linkedin](https://www.linkedin.com/in/mhyrzt/)|
