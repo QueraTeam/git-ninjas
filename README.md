@@ -59,5 +59,4 @@ If you've finished the course, please add your name and one of your social pages
 | Mohsen Bagheri | [Quera](https://quera.ir/profile/MohsenBg) |
 | Javad Zarezadeh | [Linkedin](https://www.linkedin.com/in/javadzarezadeh/) |
 | Mohammad Sherafati | [Linkedin](https://www.linkedin.com/in/mohammad-sherafati7/) |
-
-
+| Ali Ghaffari Sabet | [Linkedin](https://www.linkedin.com/in/ali-ghaffari-sabet-798844197/) |
