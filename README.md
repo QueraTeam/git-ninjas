@@ -61,7 +61,7 @@ If you've finished the course, please add your name and one of your social pages
 | Javad Zarezadeh | [Linkedin](https://www.linkedin.com/in/javadzarezadeh/) |
 | Mohammad Sherafati | [Linkedin](https://www.linkedin.com/in/mohammad-sherafati7/) |
 | Ali Ghaffari Sabet | [Linkedin](https://www.linkedin.com/in/ali-ghaffari-sabet-798844197/) |
-| Mahdi Bani | [Quera](https://quera.ir/profile/mahdi_hasan) |
+| Mahdi Bani | [Telegram](https://t.me/mahdi_911) |
 | AmirMohammad Hosseini Nasab | [Linkedin](https://www.linkedin.com/in/itsamirhn/) |
 | Rasoul Ajormal | [Instagram](https://www.instagram.com/rasul.ajormal/) |
 
