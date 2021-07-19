@@ -63,5 +63,5 @@ If you've finished the course, please add your name and one of your social pages
 | Ali Ghaffari Sabet | [Linkedin](https://www.linkedin.com/in/ali-ghaffari-sabet-798844197/) |
 | Mahdi Bani | [Quera](https://quera.ir/profile/mahdi_hasan) |
 | AmirMohammad Hosseini Nasab | [Linkedin](https://www.linkedin.com/in/itsamirhn/) |
-| Rasoul Ajormal | [Instagram](https://www.instagram.com/rasul.ajormal/) |
+| Rasoul Ajormal | [Instagram](https://www.instagram.com/rasul.ajormal/) | Moein Latifi | [Github](https://github.com/moeinl71) |
 
