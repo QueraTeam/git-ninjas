@@ -8,7 +8,7 @@ This repo is about our [Practical Git](https://quera.ir/college/land/register/82
 
 If you've finished the course, please add your name and one of your social pages (e.g. LinkedIn, Twitter, Instagram, ...) in a Pull Request.
 
-|Full Name| Social Address | 
+|Full Name| Social Address |
 |--|--| 
 | Seyed Ali Babaei | [Linkedin](https://www.linkedin.com/in/mrsalib/) | 
 | Ali Shafiee | [Linkedin](https://www.linkedin.com/in/ali-shafiee-688446168/) |
@@ -61,7 +61,12 @@ If you've finished the course, please add your name and one of your social pages
 | Javad Zarezadeh | [Linkedin](https://www.linkedin.com/in/javadzarezadeh/) |
 | Mohammad Sherafati | [Linkedin](https://www.linkedin.com/in/mohammad-sherafati7/) |
 | Ali Ghaffari Sabet | [Linkedin](https://www.linkedin.com/in/ali-ghaffari-sabet-798844197/) |
-| Mahdi Bani | [Quera](https://quera.ir/profile/mahdi_hasan) |
+| Mahdi Bani | [Telegram](https://t.me/mahdi_911) |
 | AmirMohammad Hosseini Nasab | [Linkedin](https://www.linkedin.com/in/itsamirhn/) |
 | Rasoul Ajormal | [Instagram](https://www.instagram.com/rasul.ajormal/) |
+| Salar Sabeti | [LinkedIn](https://www.linkedin.com/in/salar-sabeti/) |
+| Mahdi Sadeghi | [Twitter](https://twitter.com/mosaddde) |
+| Alireza Ftekhari | [Instagram](https://www.instagram.com/_.mr.pure._/) |
 | Ali Abdi | [Linkedin](https://www.linkedin.com/in/aliabdii) |
+
+
