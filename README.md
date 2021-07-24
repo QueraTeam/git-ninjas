@@ -76,6 +76,7 @@ If you've finished the course, please add your name and one of your social pages
 | Mohammad Mansouri | [Linkedin](https://www.linkedin.com/in/mohammad-mansouri-737031201) |
 | Ali Radmanesh | [Linkedin](https://www.linkedin.com/in/ali-radmanesh-71038a131/) | 
 | Hadi Torfi | [Linkedin](https://www.linkedin.com/in/hadi-torfi/) |
+| Moein Latifi | [Github](https://github.com/moeinl71) |
 
 
 
