@@ -74,6 +74,7 @@ If you've finished the course, please add your name and one of your social pages
 | Mahtab Ranjbar | [Linkedin](https://www.linkedin.com/in/mahtabranjbar/) |
 | Benyamin Beyzaie | [LinkedIn](https://www.linkedin.com/in/benyamin-beyzaie-719a4a112/) |
 | Mohammad Mansouri | [Linkedin](https://www.linkedin.com/in/mohammad-mansouri-737031201) |
+| Ali Radmanesh | [Linkedin](https://www.linkedin.com/in/ali-radmanesh-71038a131/) | 
 
 
 
