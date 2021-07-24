@@ -80,7 +80,8 @@ If you've finished the course, please add your name and one of your social pages
 | Reza Ahangarpour | [Twitter](https://mobile.twitter.com/Ahangar53048814/) |
 | Pedram Rezaei | [Linkedin](https://www.linkedin.com/in/pedram-rezaei-b3bb091b9/) |
 | Ali Asadi | [Github](https://github.com/aliasadiw7) |
-| Mohammad Mahdi Mollaeian | [Linkedin]( www.linkedin.com/in/mollaeian) |
+| Mohammad Mahdi Mollaeian | [Linkedin](https://www.linkedin.com/in/mollaeian) |
+| Mohammad Yousef Rashidi | [Linkedin](https://www.linkedin.com/in/yousefrashidi/) |
 
 
 
