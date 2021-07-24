@@ -82,7 +82,7 @@ If you've finished the course, please add your name and one of your social pages
 | Ali Asadi | [Github](https://github.com/aliasadiw7) |
 | Mohammad Mahdi Mollaeian | [Linkedin](https://www.linkedin.com/in/mollaeian) |
 | Mohammad Yousef Rashidi | [Linkedin](https://www.linkedin.com/in/yousefrashidi/) |
-
+| Amir Abbas Bakhshipour | [Linkedin](https://www.linkedin.com/in/amir-abbas-bakhshipour-a236171aa) |
 
 
 
