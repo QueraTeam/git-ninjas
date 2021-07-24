@@ -78,5 +78,6 @@ If you've finished the course, please add your name and one of your social pages
 | Hadi Torfi | [Linkedin](https://www.linkedin.com/in/hadi-torfi/) |
 | Moein Latifi | [Github](https://github.com/moeinl71) |
 | Reza Ahangarpour | [Twitter](https://mobile.twitter.com/Ahangar53048814/) |
+| Pedram Rezaei | [Linkedin](https://www.linkedin.com/in/pedram-rezaei-b3bb091b9/) |
 
 
