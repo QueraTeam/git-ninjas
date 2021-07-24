@@ -72,6 +72,7 @@ If you've finished the course, please add your name and one of your social pages
 | Sina Choghadi | [Linkedin](https://www.linkedin.com/in/sina-choghadi-34892265) |
 | Erfan Kanani | [Linkedin](https://www.linkedin.com/in/erfan-kanani-404130203/) |
 | Mahtab Ranjbar | [Linkedin](https://www.linkedin.com/in/mahtabranjbar/) |
+| Benyamin Beyzaie | [LinkedIn](https://www.linkedin.com/in/benyamin-beyzaie-719a4a112/) |
 
 
 
