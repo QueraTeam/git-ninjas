@@ -65,4 +65,6 @@ If you've finished the course, please add your name and one of your social pages
 | AmirMohammad Hosseini Nasab | [Linkedin](https://www.linkedin.com/in/itsamirhn/) |
 | Rasoul Ajormal | [Instagram](https://www.instagram.com/rasul.ajormal/) |
 | Salar Sabeti | [LinkedIn](https://www.linkedin.com/in/salar-sabeti/) |
+| Mahdi Sadeghi | [Twitter](https://twitter.com/mosaddde) |
+
 
