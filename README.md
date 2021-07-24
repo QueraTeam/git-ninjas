@@ -68,5 +68,6 @@ If you've finished the course, please add your name and one of your social pages
 | Mahdi Sadeghi | [Twitter](https://twitter.com/mosaddde) |
 | Alireza Ftekhari | [Instagram](https://www.instagram.com/_.mr.pure._/) |
 | Ali Abdi | [Linkedin](https://www.linkedin.com/in/aliabdii) |
+| Alireza Zahiri | [Linkedin](https://www.linkedin.com/in/alireza-zahiri-a2956020a) |
 
 
