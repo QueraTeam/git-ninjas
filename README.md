@@ -41,6 +41,7 @@ If you've finished the course, please add your name and one of your social pages
 | S.Hessam Mireshgholah | [Linkedin](https://www.linkedin.com/in/hesaam/) |
 | Hadi Sotudeh | [LinkedIn](https://www.linkedin.com/in/hadisotudeh) |
 | Parisa Khania | [Linkedin](https://www.linkedin.com/in/parisa-khania/) |
+| Mahsa Aghazadeh | [Linkedin](https://www.linkedin.com/in/mahsaagz/) |
 | Komeil Yeganeh | [Linkedin](https://www.linkedin.com/in/komeil-yeganeh/) |
 | Amir Rajabi | [Linkedin](https://www.linkedin.com/in/amir-rajabi-623ba5150) |
 | Mohammad Abbasi | [Twitter](https://twitter.com/mohammadv184) |
