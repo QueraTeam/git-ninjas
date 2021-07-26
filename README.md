@@ -41,6 +41,7 @@ If you've finished the course, please add your name and one of your social pages
 | S.Hessam Mireshgholah | [Linkedin](https://www.linkedin.com/in/hesaam/) |
 | Hadi Sotudeh | [LinkedIn](https://www.linkedin.com/in/hadisotudeh) |
 | Parisa Khania | [Linkedin](https://www.linkedin.com/in/parisa-khania/) |
+| Mahsa Aghazadeh | [Linkedin](https://www.linkedin.com/in/mahsaagz/) |
 | Komeil Yeganeh | [Linkedin](https://www.linkedin.com/in/komeil-yeganeh/) |
 | Amir Rajabi | [Linkedin](https://www.linkedin.com/in/amir-rajabi-623ba5150) |
 | Mohammad Abbasi | [Twitter](https://twitter.com/mohammadv184) |
@@ -85,6 +86,6 @@ If you've finished the course, please add your name and one of your social pages
 | Amir Abbas Bakhshipour | [Linkedin](https://www.linkedin.com/in/amir-abbas-bakhshipour-a236171aa) |
 | Mohammad Javad Taheri | [Linkedin](www.linkedin.com/in/mohammad-javad-taheri) |
 | Alireza Jafarinejad | [Linkedin](https://linkedin.com/in/alireza-jafarinejad-402a71214/) |
+| Javad Jazandari | [Linkedin](https://www.linkedin.com/in/javad-jazadnari-12a9b3161/) |
 | Alireza Mortezaei | [Linkedin](https://www.linkedin.com/in/alireza-mortezaei-a8312b196/) |
-
 
