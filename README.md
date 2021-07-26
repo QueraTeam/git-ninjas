@@ -85,5 +85,6 @@ If you've finished the course, please add your name and one of your social pages
 | Amir Abbas Bakhshipour | [Linkedin](https://www.linkedin.com/in/amir-abbas-bakhshipour-a236171aa) |
 | Mohammad Javad Taheri | [Linkedin](www.linkedin.com/in/mohammad-javad-taheri) |
 | Alireza Jafarinejad | [Linkedin](https://linkedin.com/in/alireza-jafarinejad-402a71214/) |
+| Alireza Mortezaei | [Linkedin](https://www.linkedin.com/in/alireza-mortezaei-a8312b196/) |
 
 
