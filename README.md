@@ -88,4 +88,4 @@ If you've finished the course, please add your name and one of your social pages
 | Alireza Jafarinejad | [Linkedin](https://linkedin.com/in/alireza-jafarinejad-402a71214/) |
 | Javad Jazandari | [Linkedin](https://www.linkedin.com/in/javad-jazadnari-12a9b3161/) |
 | Alireza Mortezaei | [Linkedin](https://www.linkedin.com/in/alireza-mortezaei-a8312b196/) |
-
+| Mohammad Ali Azarkasb | [GitHub](https://github.com/Azarkasb) |
