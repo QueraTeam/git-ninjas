@@ -90,6 +90,6 @@ If you've finished the course, please add your name and one of your social pages
 | Alireza Maleki | [Twitter](https://twitter.com/Alireza08832520) |
 | Parisa Rahmani| [Linkedin](https://www.linkedin.com/in/parisa-rahmani-705482172) |
 | Alireza Goroohi | [Github](https://github.com/AlirezaTG) [Instagram](https://www.instagram.com/rasul.ajormal/alireza_g22) |
-
+| Mohammad Ali Azarkasb | [GitHub](https://github.com/Azarkasb) |
 
 
