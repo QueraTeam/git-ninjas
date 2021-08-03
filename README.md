@@ -93,5 +93,5 @@ If you've finished the course, please add your name and one of your social pages
 | Parisa Rahmani| [Linkedin](https://www.linkedin.com/in/parisa-rahmani-705482172) |
 | Alireza Goroohi | [Github](https://github.com/AlirezaTG) |
 | Mohammad Ali Azarkasb | [GitHub](https://github.com/Azarkasb) |
-
+| Shayan Mohammad Pasokhi Razavi | [Linkedin](https://www.linkedin.com/in/shayanpasokhi) |
 
