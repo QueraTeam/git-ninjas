@@ -79,7 +79,7 @@ If you've finished the course, please add your name and one of your social pages
 | Ali Radmanesh | [Linkedin](https://www.linkedin.com/in/ali-radmanesh-71038a131/) | 
 | Hadi Torfi | [Linkedin](https://www.linkedin.com/in/hadi-torfi/) |
 | Moein Latifi | [Github](https://github.com/moeinl71) |
-| Reza Ahangarpour | [Twitter](https://mobile.twitter.com/Ahangar53048814/) |
+| Reza Ahangarpour | [Github](https://github.com/RA19HS) |
 | Pedram Rezaei | [Linkedin](https://www.linkedin.com/in/pedram-rezaei-b3bb091b9/) |
 | Ali Asadi | [Github](https://github.com/aliasadiw7) |
 | Mohammad Mahdi Mollaeian | [Linkedin](https://www.linkedin.com/in/mollaeian) |
@@ -93,6 +93,15 @@ If you've finished the course, please add your name and one of your social pages
 | Parisa Rahmani| [Linkedin](https://www.linkedin.com/in/parisa-rahmani-705482172) |
 | Alireza Goroohi | [Github](https://github.com/AlirezaTG) |
 | Mohammad Ali Azarkasb | [GitHub](https://github.com/Azarkasb) |
+| Vesal Daneshvar | [GitHub](https://github.com/vessaldaneshvar) |
+| Mohammad Reza Khosravian | [Linkedin](https://www.linkedin.com/in/mrkhosravian) |
+| Hamid Izadkhah | [Github](https://github.com/hr-izadkhah) |
+| Mohammad Amin Dehmolaee | [GitHub](https://github.com/MohammadAminDHM/) |
+| Shayan Mohammad Pasokhi Razavi | [Linkedin](https://www.linkedin.com/in/shayanpasokhi) |
+| Ali Yazdizadeh | [GitHub](https://github.com/myprogrammerpersonality) |
+| Fatemeh Faryadras | [GitHub](https://github.com/Fatemeh-F) |
+| Reza Kargar | [GitHub](https://github.com/RezaKargar) |
+| Ali Tohidi | [LinkedIn](https://www.linkedin.com/in/alitohidif/) |
+| Ahmad Mohammadzadeh | [LinkedIn](https://www.linkedin.com/in/ahmad-mohammadzadeh) |
 | Amirhesam Adibinia | [Linkedin](https://www.linkedin.com/in/amirhesam-adibinia-090451204) |
-
 
