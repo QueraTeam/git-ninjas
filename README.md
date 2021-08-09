@@ -95,5 +95,6 @@ If you've finished the course, please add your name and one of your social pages
 | Mohammad Ali Azarkasb | [GitHub](https://github.com/Azarkasb) |
 | Vesal Daneshvar | [GitHub](https://github.com/vessaldaneshvar) |
 | Mohammad Reza Khosravian | [Linkedin](https://www.linkedin.com/in/mrkhosravian) |
+| Hamid Izadkhah | [Github](https://github.com/hr-izadkhah) |
 
 
