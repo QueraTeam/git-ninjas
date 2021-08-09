@@ -96,5 +96,6 @@ If you've finished the course, please add your name and one of your social pages
 | Vesal Daneshvar | [GitHub](https://github.com/vessaldaneshvar) |
 | Mohammad Reza Khosravian | [Linkedin](https://www.linkedin.com/in/mrkhosravian) |
 | Hamid Izadkhah | [Github](https://github.com/hr-izadkhah) |
+| Mohammad Amin Dehmolaee | [GitHub](https://github.com/MohammadAminDHM/) |
 
 
