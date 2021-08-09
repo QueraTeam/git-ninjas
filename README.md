@@ -98,4 +98,6 @@ If you've finished the course, please add your name and one of your social pages
 | Hamid Izadkhah | [Github](https://github.com/hr-izadkhah) |
 | Mohammad Amin Dehmolaee | [GitHub](https://github.com/MohammadAminDHM/) |
 | Shayan Mohammad Pasokhi Razavi | [Linkedin](https://www.linkedin.com/in/shayanpasokhi) |
+| Ali Yazdizadeh | [GitHub](https://github.com/myprogrammerpersonality) |
+
 
