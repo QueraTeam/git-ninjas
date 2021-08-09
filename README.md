@@ -100,5 +100,6 @@ If you've finished the course, please add your name and one of your social pages
 | Shayan Mohammad Pasokhi Razavi | [Linkedin](https://www.linkedin.com/in/shayanpasokhi) |
 | Ali Yazdizadeh | [GitHub](https://github.com/myprogrammerpersonality) |
 | Fatemeh Faryadras | [GitHub](https://github.com/Fatemeh-F) |
+| Reza Kargar | [GitHub](https://github.com/RezaKargar) |
 
 
