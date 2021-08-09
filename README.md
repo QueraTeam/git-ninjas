@@ -101,5 +101,6 @@ If you've finished the course, please add your name and one of your social pages
 | Ali Yazdizadeh | [GitHub](https://github.com/myprogrammerpersonality) |
 | Fatemeh Faryadras | [GitHub](https://github.com/Fatemeh-F) |
 | Reza Kargar | [GitHub](https://github.com/RezaKargar) |
+| Ali Tohidi | [LinkedIn](https://www.linkedin.com/in/alitohidif/) |
 
 
