@@ -13,6 +13,7 @@ If you've finished the course, please add your name and one of your social pages
 | Seyed Ali Babaei | [Linkedin](https://www.linkedin.com/in/mrsalib/) | 
 | Ali Shafiee | [Linkedin](https://www.linkedin.com/in/ali-shafiee-688446168/) |
 | Saeid Zamani | [LinkedIn](https://www.linkedin.com/in/saeid-zamani-041148195/) |
+| Sajjad Sarookhani | [Linkedin](https://www.linkedin.com/in/sajjad-sarookhani-14a0221b2/) |
 | Mahyar Riazati| [Linkedin](https://www.linkedin.com/in/mhyrzt/)|
 | Ali Safinal | [Linkedin](https://www.linkedin.com/in/safinal/) |
 | Peyman Najafi | [Quera](https://quera.ir/profile/peyman) |
