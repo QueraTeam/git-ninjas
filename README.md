@@ -106,5 +106,7 @@ If you've finished the course, please add your name and one of your social pages
 | Amirhesam Adibinia | [Linkedin](https://www.linkedin.com/in/amirhesam-adibinia-090451204) |
 | Ali Abniki | [Linkedin](https://www.linkedin.com/in/aliiiabniki/) |
 | Mohammad Hosein Soleymani | [Linkedin](https://www.linkedin.com/in/mh-hssoleyman-303396218/) |
+| Yousof Asadi | [Linkedin](https://www.linkedin.com/in/yousof-asadi-155b411bb) |
+
 
 
