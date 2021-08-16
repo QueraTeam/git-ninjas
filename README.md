@@ -109,4 +109,4 @@ If you've finished the course, please add your name and one of your social pages
 | Mohammad Sajad Khanbabaei | [Linkedin](https://www.linkedin.com/in/mohammad-sajad-khanbabaei-1b1032215/) |
 | Barboad Sadraefar | [GitHub](https://github.com/Barbod1380) |
 | Hosein ghorbany | [GitHub](https://github.com/H-ghorbany) |
-
+| Sajjad Sarookhani | [Linkedin](https://www.linkedin.com/in/sajjad-sarookhani-14a0221b2/) |
