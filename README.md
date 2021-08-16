@@ -111,6 +111,7 @@ If you've finished the course, please add your name and one of your social pages
 | Hosein ghorbany | [GitHub](https://github.com/H-ghorbany) |
 | Sajjad Sarookhani | [Linkedin](https://www.linkedin.com/in/sajjad-sarookhani-14a0221b2/) |
 | Hossein Albakri | [GitHub](https://github.com/hosseinal) |
+| Seyyed Abbas Mirghasemi | [Linkedin](https://www.linkedin.com/in/seyyed-abbas-mirghasemi/) |
 
 
 
