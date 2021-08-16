@@ -12,8 +12,8 @@ If you've finished the course, please add your name and one of your social pages
 |--|--|
 | Seyed Ali Babaei | [Linkedin](https://www.linkedin.com/in/mrsalib/) | 
 | Ali Shafiee | [Linkedin](https://www.linkedin.com/in/ali-shafiee-688446168/) |
-| Saeid Zamani | [LinkedIn](https://www.linkedin.com/in/saeid-zamani-041148195/) |
-| Mahyar Riazati| [Linkedin](https://www.linkedin.com/in/mhyrzt/)|
+| Saeid Zamani | [LinkedIn](https://www.linkedin.com/in/saeid-zamani-041148195/) | 
+| Mahyar Riazati| [Linkedin](https://www.linkedin.com/in/mhyrzt/)| 
 | Ali Safinal | [Linkedin](https://www.linkedin.com/in/safinal/) |
 | Peyman Najafi | [Quera](https://quera.ir/profile/peyman) |
 | Mohammad Shafei | [Linkedin](https://www.linkedin.com/in/mohammad-shafei-6b2486202/) |
@@ -108,4 +108,5 @@ If you've finished the course, please add your name and one of your social pages
 | Mohammad Hosein Soleymani | [Linkedin](https://www.linkedin.com/in/mh-hssoleyman-303396218/) |
 | Mohammad Sajad Khanbabaei | [Linkedin](https://www.linkedin.com/in/mohammad-sajad-khanbabaei-1b1032215/) |
 | Barboad Sadraefar | [GitHub](https://github.com/Barbod1380) |
+| Hosein ghorbany | [GitHub](https://github.com/H-ghorbany) |
 
