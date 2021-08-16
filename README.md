@@ -113,5 +113,6 @@ If you've finished the course, please add your name and one of your social pages
 | Hossein Albakri | [GitHub](https://github.com/hosseinal) |
 | Seyyed Abbas Mirghasemi | [Linkedin](https://www.linkedin.com/in/seyyed-abbas-mirghasemi/) |
 | MohammadAli MohammadKhani | [Linkedin](https://www.linkedin.com/in/mohammadali-mohammadkhani-68bb951a4) |
+| Yousof Asadi | [Linkedin](https://www.linkedin.com/in/yousof-asadi-155b411bb) |
 
 
