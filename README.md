@@ -115,5 +115,5 @@ If you've finished the course, please add your name and one of your social pages
 | MohammadAli MohammadKhani | [Linkedin](https://www.linkedin.com/in/mohammadali-mohammadkhani-68bb951a4) |
 | Yousof Asadi | [Linkedin](https://www.linkedin.com/in/yousof-asadi-155b411bb) |
 | Mahdi Ghiasi | [Linkedin](https://www.linkedin.com/in/mahdi-ghiasi-18253b199/)
-| Fatemeh Rahimzadeh | [Linkedin](https://www.linkedin.com/in/fatemeh-rahimzadeh-82a703183/) | [Instagram](https://www.instagram.com/fatemehra10/) | [Telegram](https://t.me/fatemehra10)
+| Fatemeh Rahimzadeh | [Linkedin](https://www.linkedin.com/in/fatemeh-rahimzadeh-82a703183/)
 
