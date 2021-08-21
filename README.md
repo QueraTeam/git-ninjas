@@ -35,6 +35,7 @@ If you've finished the course, please add your name and one of your social pages
 | Cena Ashoori | [Linkedin](https://www.linkedin.com/in/cena-ashoori-863a31175) |
 | Roozbeh Dargahi | [Quera](https://quera.ir/profile/RoozbehDK) |
 | Sobhan Safdarian | [Quera](https://quera.ir/profile/sobhan.saf79) |
+| **Amin Seifi** | [GitHub](https://github.com/mr-seifi)
 | Mohammad Hussein Vaez | [Twitter](https://twitter.com/Mohuva13) |
 | Mohammad Amini Nasab | [Linkedin](linkedin.com/in/mohammad-amini-nasab-093ab418a)|
 | Muhammad Mahdi Naghibi | [Linkedin](https://www.linkedin.com/in/seyed-muhammad-mahdi-naghibi/) |
