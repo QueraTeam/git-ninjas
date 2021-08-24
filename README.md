@@ -120,6 +120,7 @@ If you've finished the course, please add your name and one of your social pages
 | Mohammad Hossein Khodnama | [Linkedin](https://www.linkedin.com/in/khodnama/) |
 | Fatemeh ShahAli | [Linkedin](https://www.linkedin.com/in/fatemeh-shahali-727b23213/) |
 | AmirHossein Qavi | [GitHub](https://github.com/amirhsgh) |
+| Shayan Davoodi | [Linkedin](https://www.linkedin.com/in/shayandavoodi/) |
 
 
 
