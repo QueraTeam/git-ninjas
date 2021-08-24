@@ -114,6 +114,12 @@ If you've finished the course, please add your name and one of your social pages
 | Seyyed Abbas Mirghasemi | [Linkedin](https://www.linkedin.com/in/seyyed-abbas-mirghasemi/) |
 | MohammadAli MohammadKhani | [Linkedin](https://www.linkedin.com/in/mohammadali-mohammadkhani-68bb951a4) |
 | Yousof Asadi | [Linkedin](https://www.linkedin.com/in/yousof-asadi-155b411bb) |
-| Mahdi Ghiasi | [Linkedin](https://www.linkedin.com/in/mahdi-ghiasi-18253b199/)
+| Mahdi Ghiasi | [Linkedin](https://www.linkedin.com/in/mahdi-ghiasi-18253b199/) |
+| Sepehr Shirani| [Linkedin](https://www.linkedin.com/in/sepehr-shirani-b8a5871b6/) |
+| Fatemeh Rahimzadeh | [Linkedin](https://www.linkedin.com/in/fatemeh-rahimzadeh-82a703183/) |
+| Mohammad Hossein Khodnama | [Linkedin](https://www.linkedin.com/in/khodnama/) |
+| Fatemeh ShahAli | [Linkedin](https://www.linkedin.com/in/fatemeh-shahali-727b23213/) |
 | AmirHossein Qavi | [GitHub](https://github.com/amirhsgh) |
+
+
 
