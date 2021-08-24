@@ -116,3 +116,6 @@ If you've finished the course, please add your name and one of your social pages
 | Yousof Asadi | [Linkedin](https://www.linkedin.com/in/yousof-asadi-155b411bb) |
 | Mahdi Ghiasi | [Linkedin](https://www.linkedin.com/in/mahdi-ghiasi-18253b199/) |
 | Sepehr Shirani| [Linkedin](https://www.linkedin.com/in/sepehr-shirani-b8a5871b6/) |
+| Fatemeh Rahimzadeh | [Linkedin](https://www.linkedin.com/in/fatemeh-rahimzadeh-82a703183/) |
+
+
