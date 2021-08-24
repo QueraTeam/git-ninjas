@@ -122,5 +122,8 @@ If you've finished the course, please add your name and one of your social pages
 | AmirHossein Qavi | [GitHub](https://github.com/amirhsgh) |
 | Shayan Davoodi | [Linkedin](https://www.linkedin.com/in/shayandavoodi/) |
 | Mehdi Eidi | [LinkedIn](https://www.linkedin.com/in/mehdieidi/) |
+| Amin Seifi | [GitHub](https://github.com/mr-seifi) |
+| Mohammad Golzar | [Linkedin](https://www.linkedin.com/in/mohammad-golzar/) |
+
 
 
