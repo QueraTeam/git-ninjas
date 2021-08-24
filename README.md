@@ -125,7 +125,7 @@ If you've finished the course, please add your name and one of your social pages
 | Amin Seifi | [GitHub](https://github.com/mr-seifi) |
 | Mohammad Golzar | [Linkedin](https://www.linkedin.com/in/mohammad-golzar/) |
 | Saman Obeydzadeh | [Linkedin](https://www.linkedin.com/in/saman-obeydzadeh-bb667a195/) |
-
+| Amirali Kalantari Pour | [Github](https://github.com/amiralidev) | 
 
 
 
