@@ -127,6 +127,6 @@ If you've finished the course, please add your name and one of your social pages
 | Saman Obeydzadeh | [Linkedin](https://www.linkedin.com/in/saman-obeydzadeh-bb667a195/) |
 | Amirali Kalantari Pour | [Github](https://github.com/amiralidev) | 
 | Alireza Khorshidi | [Linkedin](https://www.linkedin.com/in/alireza-khorshidi-63b439180/) |
-
+| AmirHossein Razlighi | [Linkedin](https://www.linkedin.com/in/amirhossein-razlighi-435103116/) |
 
 
