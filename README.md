@@ -12,10 +12,10 @@ If you've finished the course, please add your name and one of your social pages
 |--|--|
 | Seyed Ali Babaei | [Linkedin](https://www.linkedin.com/in/mrsalib/) | 
 | Ali Shafiee | [Linkedin](https://www.linkedin.com/in/ali-shafiee-688446168/) |
-| Saeid Zamani | [LinkedIn](https://www.linkedin.com/in/saeid-zamani-041148195/) | 
-| Mahyar Riazati| [Linkedin](https://www.linkedin.com/in/mhyrzt/)| 
-| Ali Safinal | [Linkedin](https://www.linkedin.com/in/safinal/) |
-| Peyman Najafi | [Quera](https://quera.ir/profile/peyman) |
+| Saeid Zamani | [LinkedIn](https://www.linkedin.com/in/saeid-zamani-041148195/) |
+| Mahyar Riazati| [Linkedin](https://www.linkedin.com/in/mhyrzt/)|
+| Ali Safinal | [Linkedin](https://www.linkedin.com/in/safinal/) | 
+| Peyman Najafi | [Quera](https://quera.ir/profile/peyman) | 
 | Mohammad Shafei | [Linkedin](https://www.linkedin.com/in/mohammad-shafei-6b2486202/) |
 | Yousef Mahdipoor | [Linkedin](https://www.linkedin.com/in/yousef-mahdipoor/) |
 | Nima HeydariNasab | [Linkedin](https://www.linkedin.com/in/nimah79/) |
@@ -126,6 +126,7 @@ If you've finished the course, please add your name and one of your social pages
 | Mohammad Golzar | [Linkedin](https://www.linkedin.com/in/mohammad-golzar/) |
 | Saman Obeydzadeh | [Linkedin](https://www.linkedin.com/in/saman-obeydzadeh-bb667a195/) |
 | Amirali Kalantari Pour | [Github](https://github.com/amiralidev) | 
+| Alireza Khorshidi | [Linkedin](https://www.linkedin.com/in/alireza-khorshidi-63b439180/) |
 
 
 
