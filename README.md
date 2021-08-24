@@ -124,6 +124,8 @@ If you've finished the course, please add your name and one of your social pages
 | Mehdi Eidi | [LinkedIn](https://www.linkedin.com/in/mehdieidi/) |
 | Amin Seifi | [GitHub](https://github.com/mr-seifi) |
 | Mohammad Golzar | [Linkedin](https://www.linkedin.com/in/mohammad-golzar/) |
+| Saman Obeydzadeh | [Linkedin](https://www.linkedin.com/in/saman-obeydzadeh-bb667a195/) |
+
 
 
 
