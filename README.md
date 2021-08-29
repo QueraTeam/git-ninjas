@@ -131,5 +131,6 @@ If you've finished the course, please add your name and one of your social pages
 | Foroozan Iraji | [GitHub](https://github.com/Forooz99) |
 | Masoumeh Chapariniya | [Linkedin](https://www.linkedin.com/in/masoumeh-chapariniya-573b1b203/) |
 | Ethan Hatefi | [GitHub](https://github.com/EhsanS2) |
+| Farshad Asadpour | [linkedin](https://www.linkedin.com/in/farshadasadpour/) |
 
 
