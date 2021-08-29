@@ -128,5 +128,10 @@ If you've finished the course, please add your name and one of your social pages
 | Amirali Kalantari Pour | [Github](https://github.com/amiralidev) | 
 | Alireza Khorshidi | [Linkedin](https://www.linkedin.com/in/alireza-khorshidi-63b439180/) |
 | AmirHossein Razlighi | [Linkedin](https://www.linkedin.com/in/amirhossein-razlighi-435103116/) |
+| Foroozan Iraji | [GitHub](https://github.com/Forooz99) |
+| Masoumeh Chapariniya | [Linkedin](https://www.linkedin.com/in/masoumeh-chapariniya-573b1b203/) |
+| Ethan Hatefi | [GitHub](https://github.com/EhsanS2) |
+| Farshad Asadpour | [linkedin](https://www.linkedin.com/in/farshadasadpour/) |
 | Pourya Aliannejadi | [GitHub](https://github.com/AliannejadiPourya) |
+
 
