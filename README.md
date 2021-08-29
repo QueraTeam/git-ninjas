@@ -12,10 +12,10 @@ If you've finished the course, please add your name and one of your social pages
 |--|--|
 | Seyed Ali Babaei | [Linkedin](https://www.linkedin.com/in/mrsalib/) | 
 | Ali Shafiee | [Linkedin](https://www.linkedin.com/in/ali-shafiee-688446168/) |
-| Saeid Zamani | [LinkedIn](https://www.linkedin.com/in/saeid-zamani-041148195/) | 
-| Mahyar Riazati| [Linkedin](https://www.linkedin.com/in/mhyrzt/)| 
-| Ali Safinal | [Linkedin](https://www.linkedin.com/in/safinal/) |
-| Peyman Najafi | [Quera](https://quera.ir/profile/peyman) |
+| Saeid Zamani | [LinkedIn](https://www.linkedin.com/in/saeid-zamani-041148195/) |
+| Mahyar Riazati| [Linkedin](https://www.linkedin.com/in/mhyrzt/)|
+| Ali Safinal | [Linkedin](https://www.linkedin.com/in/safinal/) | 
+| Peyman Najafi | [Quera](https://quera.ir/profile/peyman) | 
 | Mohammad Shafei | [Linkedin](https://www.linkedin.com/in/mohammad-shafei-6b2486202/) |
 | Yousef Mahdipoor | [Linkedin](https://www.linkedin.com/in/yousef-mahdipoor/) |
 | Nima HeydariNasab | [Linkedin](https://www.linkedin.com/in/nimah79/) |
@@ -115,5 +115,21 @@ If you've finished the course, please add your name and one of your social pages
 | MohammadAli MohammadKhani | [Linkedin](https://www.linkedin.com/in/mohammadali-mohammadkhani-68bb951a4) |
 | Yousof Asadi | [Linkedin](https://www.linkedin.com/in/yousof-asadi-155b411bb) |
 | Mahdi Ghiasi | [Linkedin](https://www.linkedin.com/in/mahdi-ghiasi-18253b199/) |
-| Ethan Hatefi | [GitHub](https://github.com/EhsanS2)
+| Sepehr Shirani| [Linkedin](https://www.linkedin.com/in/sepehr-shirani-b8a5871b6/) |
+| Fatemeh Rahimzadeh | [Linkedin](https://www.linkedin.com/in/fatemeh-rahimzadeh-82a703183/) |
+| Mohammad Hossein Khodnama | [Linkedin](https://www.linkedin.com/in/khodnama/) |
+| Fatemeh ShahAli | [Linkedin](https://www.linkedin.com/in/fatemeh-shahali-727b23213/) |
+| AmirHossein Qavi | [GitHub](https://github.com/amirhsgh) |
+| Shayan Davoodi | [Linkedin](https://www.linkedin.com/in/shayandavoodi/) |
+| Mehdi Eidi | [LinkedIn](https://www.linkedin.com/in/mehdieidi/) |
+| Amin Seifi | [GitHub](https://github.com/mr-seifi) |
+| Mohammad Golzar | [Linkedin](https://www.linkedin.com/in/mohammad-golzar/) |
+| Saman Obeydzadeh | [Linkedin](https://www.linkedin.com/in/saman-obeydzadeh-bb667a195/) |
+| Amirali Kalantari Pour | [Github](https://github.com/amiralidev) | 
+| Alireza Khorshidi | [Linkedin](https://www.linkedin.com/in/alireza-khorshidi-63b439180/) |
+| AmirHossein Razlighi | [Linkedin](https://www.linkedin.com/in/amirhossein-razlighi-435103116/) |
+| Foroozan Iraji | [GitHub](https://github.com/Forooz99) |
+| Masoumeh Chapariniya | [Linkedin](https://www.linkedin.com/in/masoumeh-chapariniya-573b1b203/) |
+| Ethan Hatefi | [GitHub](https://github.com/EhsanS2) |
+
 
