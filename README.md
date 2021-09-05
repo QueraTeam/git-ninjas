@@ -134,4 +134,3 @@ If you've finished the course, please add your name and one of your social pages
 | Farshad Asadpour | [linkedin](https://www.linkedin.com/in/farshadasadpour/) |
 | Pourya Aliannejadi | [GitHub](https://github.com/AliannejadiPourya) |
 | Aghil Padash | [Linkedin](https://www.linkedin.com/in/aghil-padash/) |
-
