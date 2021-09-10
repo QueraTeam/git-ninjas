@@ -133,5 +133,5 @@ If you've finished the course, please add your name and one of your social pages
 | Ethan Hatefi | [GitHub](https://github.com/EhsanS2) |
 | Farshad Asadpour | [linkedin](https://www.linkedin.com/in/farshadasadpour/) |
 | Pourya Aliannejadi | [GitHub](https://github.com/AliannejadiPourya) |
-
+| Yaghoub Jalali | [Quera](https://quera.ir/profile/y_jalali) |
 
