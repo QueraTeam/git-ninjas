@@ -136,6 +136,7 @@ If you've finished the course, please add your name and one of your social pages
 | Mohsen Barari | [linkedin](https://www.linkedin.com/in/mohsen-barari-72aa5854/) |
 | Nafiseh Sadeghi | [linkedin](https://www.linkedin.com/in/nafisehsadeghi/) |
 | Hamed Nahvi | [GitHub](https://github.com/Hamedius) |
+| Mohammad Hashem Nowruzi | [GitHub](https://github.com/githashem) |
 
 
 
