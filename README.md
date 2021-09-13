@@ -139,6 +139,7 @@ If you've finished the course, please add your name and one of your social pages
 | Mohammad Hashem Nowruzi | [GitHub](https://github.com/githashem) |
 | Aghil Padash | [Linkedin](https://www.linkedin.com/in/aghil-padash/) |
 | Pouya Gholami | [GitHub](https://github.com/GholamiP/PGH.git) |
+| Hadis Haghiri | [GitHub](https://github.com/Hadis-Haghiri) |
 
 
 
