@@ -143,4 +143,6 @@ If you've finished the course, please add your name and one of your social pages
 | Yaghoub Jalali | [Quera](https://quera.ir/profile/y_jalali) |
 | Koorosh Karkehabadi | [GitHub](https://github.com/koorosh-k98) |
 | Ali Zahedzadeh | [linkedin](https://www.linkedin.com/in/ali-zahedzadeh/) |
+| HamidReza Sadeghzadeh | [GitHub](https://github.com/HamidRezaSaad) |
+
 
