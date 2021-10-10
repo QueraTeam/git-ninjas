@@ -149,5 +149,6 @@ If you've finished the course, please add your name and one of your social pages
 | Iman Hamidi | [Linkedin](https://www.linkedin.com/in/iman-hamidi-6a906038/) |
 | Mobina Mosannafat | [Linkedin](https://www.linkedin.com/in/mobina-mosannafat-0636461a8/) |
 | Amir Hosein Sedaghati | [Linkedin](https://www.linkedin.com/in/amir-hosein-sedaghati-170674221/) |
+| Mohammad Ali Khodayari | [Linkedin](https://www.linkedin.com/in/mohammad-ali-khodayari-793ab81a5/) |
 
 
