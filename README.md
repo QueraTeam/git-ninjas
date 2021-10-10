@@ -159,4 +159,5 @@ If you've finished the course, please add your name and one of your social pages
 | Mahdie Rahmati | [Linkedin](https://www.linkedin.com/in/mahdierahmati/) |
 | Mahdieh Emadi | [Linkedin](https://www.linkedin.com/in/mahdieh-emadi-647902a7/)|
 | Mohammad Pasandideh Nadamani | [Linkedin](https://www.linkedin.com/in/mps21/) |
+| Foad Ferdows | [Linkedin](https://www.linkedin.com/in/foad-ferdows) |
 
