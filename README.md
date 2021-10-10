@@ -153,5 +153,5 @@ If you've finished the course, please add your name and one of your social pages
 | Ali Masoudi Qaziar | [Linkedin](https://www.linkedin.com/in/ali-masoudi-qaziar-5a835a173/) |
 | Saeid Abdollahi | [Linkedin](https://www.linkedin.com/in/saeidabdollahi/) |
 | Alireza Abolhasani | [Linkedin](https://www.linkedin.com/in/alireza-abolhasani-82a2a44a/) |
-
+| Hosein Fanai | [Github](https://github.com/HoseinFanai/) |
 
