@@ -147,4 +147,7 @@ If you've finished the course, please add your name and one of your social pages
 | Mansour Tarafdar | [GitHub](https://github.com/tarafdarmansour) |
 | Amin Bahonar | [GitHub](https://github.com/bahonar2002) |
 | Iman Hamidi | [Linkedin](https://www.linkedin.com/in/iman-hamidi-6a906038/) |
+| Mobina Mosannafat | [Linkedin](https://www.linkedin.com/in/mobina-mosannafat-0636461a8/) |
 | Amir Hosein Sedaghati | [Linkedin](https://www.linkedin.com/in/amir-hosein-sedaghati-170674221/) |
+
+
