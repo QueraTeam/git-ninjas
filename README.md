@@ -151,6 +151,7 @@ If you've finished the course, please add your name and one of your social pages
 | Amir Hosein Sedaghati | [Linkedin](https://www.linkedin.com/in/amir-hosein-sedaghati-170674221/) |
 | Mohammad Ali Khodayari | [Linkedin](https://www.linkedin.com/in/mohammad-ali-khodayari-793ab81a5/) |
 | Ali Masoudi Qaziar | [Linkedin](https://www.linkedin.com/in/ali-masoudi-qaziar-5a835a173/) |
+| Saeid Abdollahi | [Linkedin](https://www.linkedin.com/in/saeidabdollahi/) |
 
 
 
