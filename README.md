@@ -155,5 +155,6 @@ If you've finished the course, please add your name and one of your social pages
 | Alireza Abolhasani | [Linkedin](https://www.linkedin.com/in/alireza-abolhasani-82a2a44a/) |
 | Hosein Fanai | [Github](https://github.com/HoseinFanai/) |
 | Dariush Hadipour | [LinkedIn](https://www.linkedin.com/in/dariush-hadipour-b73737183/) |
+| Ghazal Pouresfandiyar Boroujeni | [Linkedin](https://www.linkedin.com/in/ghazal-pouresfandiyar-boroujeni-246bb5200/) |
 
 
