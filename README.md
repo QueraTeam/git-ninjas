@@ -162,5 +162,4 @@ If you've finished the course, please add your name and one of your social pages
 | Foad Ferdows | [Linkedin](https://www.linkedin.com/in/foad-ferdows) |
 | Hossein Sharifi | [Instagram](https://www.instagram.com/hosseinsharifi3154/) |
 | Mahdi Nazari | [GitHub](https://github.com/mhdi-nzari) |
-
-
+| Mona AliAsgari | [Linkedin](https://www.linkedin.com/in/mona-aliasgari-97918a172/) |
