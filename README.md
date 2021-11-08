@@ -166,6 +166,6 @@ If you've finished the course, please add your name and one of your social pages
 | Navid Mirhoseini | [Linkedin](https://www.linkedin.com/in/navid-mirhoseini-0806b678/) |
 | Mona AliAsgari | [Linkedin](https://www.linkedin.com/in/mona-aliasgari-97918a172/) |
 | Ahmad Parvinnia | [GitHub](https://github.com/Ahmad-par) |
-
+| Farbod Najafi | [LinkedIn](https://www.linkedin.com/in/farbod-najafi-34aa6a9a/) |
 
 
