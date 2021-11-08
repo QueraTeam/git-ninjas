@@ -169,5 +169,7 @@ If you've finished the course, please add your name and one of your social pages
 | Farbod Najafi | [LinkedIn](https://www.linkedin.com/in/farbod-najafi-34aa6a9a/) |
 | Mostafa Tehrani | [GitHub](https://github.com/mostafa-tehrani) |
 | Alireza Ramezani | [Linkedin](https://www.linkedin.com/in/alirez4-ramezani/) |
+| Mohammad Javad Tatari | [Linkedin](https://www.linkedin.com/in/mjavadtatari/) |
+
 
 
