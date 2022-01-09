@@ -184,5 +184,6 @@ If you've finished the course, please add your name and one of your social pages
 | Mohammadreza Motabar | [Linkedin](https://www.linkedin.com/in/mrmotabar/) |
 | Siavash Rasouli | [GitHub](https://github.com/siavash72) |
 | Zahra Heydari | [GitHub](https://github.com/zahrahydri) |
+| Seyyed Hossein Talebi | [Linkedin](https://www.linkedin.com/in/shossein-talebi-534314129) |
 
 
