@@ -10,8 +10,7 @@ If you've finished the course, please add your name and one of your social pages
 
 |Full Name| Social Address |
 |--|--|
-| Zahra Heydari | [GitHub](https://github.com/zahrahydri)
-| Seyed Ali Babaei | [Linkedin](https://www.linkedin.com/in/mrsalib/) | 
+| Seyed Ali Babaei | [Linkedin](https://www.linkedin.com/in/mrsalib/) |
 | Ali Shafiee | [Linkedin](https://www.linkedin.com/in/ali-shafiee-688446168/) |
 | Saeid Zamani | [LinkedIn](https://www.linkedin.com/in/saeid-zamani-041148195/) |
 | Mahyar Riazati| [Linkedin](https://www.linkedin.com/in/mhyrzt/)|
@@ -173,6 +172,17 @@ If you've finished the course, please add your name and one of your social pages
 | Mohammad Javad Tatari | [Linkedin](https://www.linkedin.com/in/mjavadtatari/) |
 | Hasan Rameh  | [Linkedin](https://www.linkedin.com/in/hasan-rame-1340b6179/) |
 | Eman Showkatian | [Linkedin](https://www.linkedin.com/in/eman-showkatian-25a58b218/) |
-
+| Samane Bagheri | [GitHub](https://github.com/bagheri1988) |
+| Mohamad Shadfar | [GitHub](https://github.com/mhmd-shadfar) |
+| MohammadHosein Masoon | [Linkedin](https://www.linkedin.com/in/mohammadhosein-masoon-bba1a11a7) |
+| Sahar Gharaiyan | [Linkedin](https://www.linkedin.com/in/sahar-gharaiyan-37381737/) |
+| Armin Jafarpisheh | [Linkedin](https://www.linkedin.com/in/armiinjp) |
+| Anahita yahya | [Linkedin](https://www.linkedin.com/in/anahita-yahya/) |
+| Maryam Azimpour | [Linkedin](https://www.linkedin.com/in/maryam-azimpour-0a8b41137/) |
+| Vafa Rezaei | [Linkedin](https://www.linkedin.com/in/vafa-rezaei-4991b881/) |
+| Soleiman Naderzadeh | [Linkedin](https://www.linkedin.com/in/soleiman-naderzadeh-a84906138/) |
+| Mohammadreza Motabar | [Linkedin](https://www.linkedin.com/in/mrmotabar/) |
+| Siavash Rasouli | [GitHub](https://github.com/siavash72) |
+| Zahra Heydari | [GitHub](https://github.com/zahrahydri) |
 
 
