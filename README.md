@@ -178,6 +178,7 @@ If you've finished the course, please add your name and one of your social pages
 | Sahar Gharaiyan | [Linkedin](https://www.linkedin.com/in/sahar-gharaiyan-37381737/) |
 | Armin Jafarpisheh | [Linkedin](https://www.linkedin.com/in/armiinjp) |
 | Anahita yahya | [Linkedin](https://www.linkedin.com/in/anahita-yahya/) |
+| Maryam Azimpour | [Linkedin](https://www.linkedin.com/in/maryam-azimpour-0a8b41137/) |
 
 
 
