@@ -181,6 +181,7 @@ If you've finished the course, please add your name and one of your social pages
 | Maryam Azimpour | [Linkedin](https://www.linkedin.com/in/maryam-azimpour-0a8b41137/) |
 | Vafa Rezaei | [Linkedin](https://www.linkedin.com/in/vafa-rezaei-4991b881/) |
 | Soleiman Naderzadeh | [Linkedin](https://www.linkedin.com/in/soleiman-naderzadeh-a84906138/) |
+| Mohammadreza Motabar | [Linkedin](https://www.linkedin.com/in/mrmotabar/) |
 
 
 
