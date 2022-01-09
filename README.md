@@ -179,6 +179,7 @@ If you've finished the course, please add your name and one of your social pages
 | Armin Jafarpisheh | [Linkedin](https://www.linkedin.com/in/armiinjp) |
 | Anahita yahya | [Linkedin](https://www.linkedin.com/in/anahita-yahya/) |
 | Maryam Azimpour | [Linkedin](https://www.linkedin.com/in/maryam-azimpour-0a8b41137/) |
+| Vafa Rezaei | [Linkedin](https://www.linkedin.com/in/vafa-rezaei-4991b881/) |
 
 
 
