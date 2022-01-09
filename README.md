@@ -183,6 +183,6 @@ If you've finished the course, please add your name and one of your social pages
 | Soleiman Naderzadeh | [Linkedin](https://www.linkedin.com/in/soleiman-naderzadeh-a84906138/) |
 | Mohammadreza Motabar | [Linkedin](https://www.linkedin.com/in/mrmotabar/) |
 | Siavash Rasouli | [GitHub](https://github.com/siavash72) |
-
+| Zahra Heydari | [GitHub](https://github.com/zahrahydri) |
 
 
