@@ -190,3 +190,6 @@ If you've finished the course, please add your name and one of your social pages
 | Mahdi AliabadiMoghaddam | [GitHub](https://github.com/mahdialiabadimoghaddam) |
 | Amir Hossein Hasanzadeh | [Linkedin](https://www.linkedin.com/in/amirhossein-hasanzadeh/) |
 | Mehdi Jalali | [Linkedin](https://www.linkedin.com/in/mehdi-jalali-7696a2219) |
+| Mojtaba Sohrabi | [Linkedin](https://www.linkedin.com/in/mojtabasohrabi1) |
+
+
