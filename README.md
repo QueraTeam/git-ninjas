@@ -8,9 +8,9 @@ This repo is about our [Practical Git](https://quera.ir/college/land/register/82
 
 If you've finished the course, please add your name and one of your social pages (e.g. LinkedIn, Twitter, Instagram, ...) in a Pull Request.
 
-|Full Name| Social Address |
-|--|--|
-| Seyed Ali Babaei | [Linkedin](https://www.linkedin.com/in/mrsalib/) |
+|Full Name| Social Address | 
+|--|--| 
+| Seyed Ali Babaei | [Linkedin](https://www.linkedin.com/in/mrsalib/) | 
 | Ali Shafiee | [Linkedin](https://www.linkedin.com/in/ali-shafiee-688446168/) |
 | Saeid Zamani | [LinkedIn](https://www.linkedin.com/in/saeid-zamani-041148195/) |
 | Mahyar Riazati| [Linkedin](https://www.linkedin.com/in/mhyrzt/)|
@@ -189,6 +189,10 @@ If you've finished the course, please add your name and one of your social pages
 | Seyed AmirHossein Adhami MirHosseini (AmooAti) | [Linkedin](https://www.linkedin.com/in/seyed-amirhossein-adhami-mirhosseini/) |
 | Mahdi AliabadiMoghaddam | [GitHub](https://github.com/mahdialiabadimoghaddam) |
 | Amir Hossein Hasanzadeh | [Linkedin](https://www.linkedin.com/in/amirhossein-hasanzadeh/) |
-| Mobin Nesari | [Linkedin](https://www.linkedin.com/in/mobin-nesari/)|
+| Mehdi Jalali | [Linkedin](https://www.linkedin.com/in/mehdi-jalali-7696a2219) |
+| Mojtaba Sohrabi | [Linkedin](https://www.linkedin.com/in/mojtabasohrabi1) |
+| Danial Azimi | [GitHub](https://github.com/danialazimi10) |
+| Mobin Nesari | [Linkedin](https://www.linkedin.com/in/mobin-nesari/) |
+
 
 
