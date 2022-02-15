@@ -194,5 +194,5 @@ If you've finished the course, please add your name and one of your social pages
 | Danial Azimi | [GitHub](https://github.com/danialazimi10) |
 | Mobin Nesari | [Linkedin](https://www.linkedin.com/in/mobin-nesari/) |
 | Ashkan HeidaryFazel | [LinkedIn](https://www.linkedin.com/in/ashkanheidary/) |
-
+| mohammad hossein mokhtarzadeh | [Quera](https://quera.org/profile/mokhi) |
 
