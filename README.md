@@ -9,8 +9,8 @@ This repo is about our [Practical Git](https://quera.ir/college/land/register/82
 If you've finished the course, please add your name and one of your social pages (e.g. LinkedIn, Twitter, Instagram, ...) in a Pull Request.
 
 |Full Name| Social Address | 
-|--|--| 
-| Seyed Ali Babaei | [Linkedin](https://www.linkedin.com/in/mrsalib/) | 
+|--|--|
+| Seyed Ali Babaei | [Linkedin](https://www.linkedin.com/in/mrsalib/) |
 | Ali Shafiee | [Linkedin](https://www.linkedin.com/in/ali-shafiee-688446168/) |
 | Saeid Zamani | [LinkedIn](https://www.linkedin.com/in/saeid-zamani-041148195/) |
 | Mahyar Riazati| [Linkedin](https://www.linkedin.com/in/mhyrzt/)|
@@ -197,6 +197,7 @@ If you've finished the course, please add your name and one of your social pages
 | Ali Olyaei | [GitHub](https://github.com/aliolyaei) |
 | Seyed Mohammad Rakhshani | [LinkedIn](https://www.linkedin.com/in/seyed-mohammad-rakhshani/) |
 | mohammad hossein mokhtarzadeh | [Quera](https://quera.org/profile/mokhi) |
+| Saeed Alimardani | [LinkedIn](https://www.linkedin.com/in/saeed-alimardani-757388232/) |
 
 
 
