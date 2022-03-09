@@ -195,4 +195,6 @@ If you've finished the course, please add your name and one of your social pages
 | Mobin Nesari | [Linkedin](https://www.linkedin.com/in/mobin-nesari/) |
 | Ashkan HeidaryFazel | [LinkedIn](https://www.linkedin.com/in/ashkanheidary/) |
 | Ali Olyaei | [GitHub](https://github.com/aliolyaei) |
+| Seyed Mohammad Rakhshani | [LinkedIn](https://www.linkedin.com/in/seyed-mohammad-rakhshani/) |
+
 
