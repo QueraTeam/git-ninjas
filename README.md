@@ -198,6 +198,7 @@ If you've finished the course, please add your name and one of your social pages
 | Seyed Mohammad Rakhshani | [LinkedIn](https://www.linkedin.com/in/seyed-mohammad-rakhshani/) |
 | mohammad hossein mokhtarzadeh | [Quera](https://quera.org/profile/mokhi) |
 | Saeed Alimardani | [LinkedIn](https://www.linkedin.com/in/saeed-alimardani-757388232/) |
+| Arsalan Jabbari | [Linkedin](http://www.linkedin.com/in/arsalan-jabbari-408318203) |
 
 
 
