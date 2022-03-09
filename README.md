@@ -9,9 +9,8 @@ This repo is about our [Practical Git](https://quera.ir/college/land/register/82
 If you've finished the course, please add your name and one of your social pages (e.g. LinkedIn, Twitter, Instagram, ...) in a Pull Request.
 
 |Full Name| Social Address | 
-|--|--| 
-| Arsalan Jabbari | [Linkedin](http://www.linkedin.com/in/arsalan-jabbari-408318203) |
-| Seyed Ali Babaei | [Linkedin](https://www.linkedin.com/in/mrsalib/) | 
+|--|--|
+| Seyed Ali Babaei | [Linkedin](https://www.linkedin.com/in/mrsalib/) |
 | Ali Shafiee | [Linkedin](https://www.linkedin.com/in/ali-shafiee-688446168/) |
 | Saeid Zamani | [LinkedIn](https://www.linkedin.com/in/saeid-zamani-041148195/) |
 | Mahyar Riazati| [Linkedin](https://www.linkedin.com/in/mhyrzt/)|
@@ -195,5 +194,11 @@ If you've finished the course, please add your name and one of your social pages
 | Danial Azimi | [GitHub](https://github.com/danialazimi10) |
 | Mobin Nesari | [Linkedin](https://www.linkedin.com/in/mobin-nesari/) |
 | Ashkan HeidaryFazel | [LinkedIn](https://www.linkedin.com/in/ashkanheidary/) |
+| Ali Olyaei | [GitHub](https://github.com/aliolyaei) |
+| Seyed Mohammad Rakhshani | [LinkedIn](https://www.linkedin.com/in/seyed-mohammad-rakhshani/) |
+| mohammad hossein mokhtarzadeh | [Quera](https://quera.org/profile/mokhi) |
+| Saeed Alimardani | [LinkedIn](https://www.linkedin.com/in/saeed-alimardani-757388232/) |
+| Arsalan Jabbari | [Linkedin](http://www.linkedin.com/in/arsalan-jabbari-408318203) |
+
 
 
