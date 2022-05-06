@@ -202,6 +202,6 @@ If you've finished the course, please add your name and one of your social pages
 | Mahla Shamsabadi | [LinkedIn](https://www.linkedin.com/in/mahla-shamsabadi-b87071228/) |
 | Mohammad Parsa Noori | [Quera](https://quera.org/profile/mpnri2) |
 | Milad Mahmoodi | [Linkedin](https://www.linkedin.com/in/milad-mahmoodi-244b74233/) |
-
+| Kavian AmirMozafari | [Linkedin](https://www.linkedin.com/in/kavian-amirmozafari-51578a166/) |
 
 
