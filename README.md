@@ -211,6 +211,8 @@ If you've finished the course, please add your name and one of your social pages
 | Masoud Mahjoubi | [Linkedin](https://www.linkedin.com/in/masoud-mahjoubi-5a9496234/) |
 | Mohsen Dehbashi | [Linkedin](https://www.linkedin.com/in/mohsendb7008/) |
 | Siavash Khani | [Linkedin](https://www.linkedin.com/in/siavash-khani-297541210/) |
+| Morteza Moradi | [Linkedin](https://www.linkedin.com/in/morteza-moradi-a6a77317a/) |
+
 
 
 
