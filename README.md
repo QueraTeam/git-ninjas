@@ -224,6 +224,7 @@ If you've finished the course, please add your name and one of your social pages
 | Milad(MohammadJavad) Alghosi | [Linkedin](https://www.linkedin.com/in/milad-alghosi-front-end/) |
 | Fateme Fallah | [LinkedIn](https://www.linkedin.com/in/fatemefallah/) |
 | Kavian AmirMozafari | [Linkedin](https://www.linkedin.com/in/kavian-amirmozafari-51578a166/) |
+| Zahra Gholami | [Linkedin](https://www.linkedin.com/in/zahra-gholami-moghadam-b93441223) |
 
 
 
