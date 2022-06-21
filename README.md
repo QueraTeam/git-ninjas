@@ -229,5 +229,6 @@ If you've finished the course, please add your name and one of your social pages
 | Elaheh Kafashi | [Linkedin](https://www.linkedin.com/in/elaheh-kafashi-9b12aba0/) |
 | Sayed Mohammad Hashemi | [Linkedin](https://www.linkedin.com/in/mohammad-hashemi1997/) |
 | Alireza Atabaki | [Linkdein](https://www.linkedin.com/in/alirezaatabaki/) |
+| Amir Ziaee | [LinkedIn](https://www.linkedin.com/in/a14z/) |
 
 
