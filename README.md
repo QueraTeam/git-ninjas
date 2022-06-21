@@ -9,10 +9,10 @@ This repo is about our [Practical Git](https://quera.ir/college/land/register/82
 If you've finished the course, please add your name and one of your social pages (e.g. LinkedIn, Twitter, Instagram, ...) in a Pull Request.
 
 |Full Name| Social Address | 
-|--|--|
-| Seyed Ali Babaei | [Linkedin](https://www.linkedin.com/in/mrsalib/) |
-| Ali Shafiee | [Linkedin](https://www.linkedin.com/in/ali-shafiee-688446168/) |
-| Saeid Zamani | [LinkedIn](https://www.linkedin.com/in/saeid-zamani-041148195/) |
+|--|--| 
+| Seyed Ali Babaei | [Linkedin](https://www.linkedin.com/in/mrsalib/) | 
+| Ali Shafiee | [Linkedin](https://www.linkedin.com/in/ali-shafiee-688446168/) | 
+| Saeid Zamani | [LinkedIn](https://www.linkedin.com/in/saeid-zamani-041148195/) | 
 | Mahyar Riazati| [Linkedin](https://www.linkedin.com/in/mhyrzt/)|
 | Ali Safinal | [Linkedin](https://www.linkedin.com/in/safinal/) | 
 | Peyman Najafi | [Quera](https://quera.ir/profile/peyman) | 
@@ -202,4 +202,29 @@ If you've finished the course, please add your name and one of your social pages
 | Mahla Shamsabadi | [LinkedIn](https://www.linkedin.com/in/mahla-shamsabadi-b87071228/) |
 | Mohammad Parsa Noori | [Quera](https://quera.org/profile/mpnri2) |
 | Milad Mahmoodi | [Linkedin](https://www.linkedin.com/in/milad-mahmoodi-244b74233/) |
+| Hassan Rasoulpour | [LinkedIn](https://www.linkedin.com/in/hassan-rasoulpour/) |
+| Mohsen Tajik | [GitHub](https://github.com/tajikmohsen) |
+| Mohammad Hamed Jabbarkhani | [Linkedin](https://www.linkedin.com/in/jabbarkhani/) |
+| Mahdi Mozaffari | [GitHub](https://github.com/thisismz) |
+| Soheil Nikroo | [GitHub](https://github.com/soheilnikroo) |
+| Rahman Alimohammadzadeh | [Linkedin](https://www.linkedin.com/in/rahman-alimohammadzadeh-33b84557) |
+| Masoud Mahjoubi | [Linkedin](https://www.linkedin.com/in/masoud-mahjoubi-5a9496234/) |
+| Mohsen Dehbashi | [Linkedin](https://www.linkedin.com/in/mohsendb7008/) |
+| Siavash Khani | [Linkedin](https://www.linkedin.com/in/siavash-khani-297541210/) |
+| Morteza Moradi | [Linkedin](https://www.linkedin.com/in/morteza-moradi-a6a77317a/) |
+| Mohammad Hassan Ahmadi| [Linkedin](https://www.linkedin.com/in/ahmadi-hassan/) |
+| Mahdi Hamidi | [Quera](https://quera.org/profile/mahdihamidi) |
+| Pouya abedpour | [Instagram](https://www.instagram.com/pouya_abedpour/) |
+| Amin Darabnia | [Linkedin](https://www.linkedin.com/in/amin-darabniya/) |
+| Mohammadreza Ziadiparast | [Linkedin](https://ir.linkedin.com/in/ziadiparast) |
+| Aida Mohaghegh Zade | [GitHub](https://github.com/aidamzz) |
+| Mahan Salami | [Linkedin](https://www.linkedin.com/in/mahan-salami-2ba6bb216/) |
+| ALi Feghhi Kouchehbaq | [Linkedin](https://www.linkedin.com/in/alifeghhi-13721220/) |
+| Ali Darvishi | [Linkedin](https://www.linkedin.com/in/ali-darvishi-457d74233/) |
+| Milad(MohammadJavad) Alghosi | [Linkedin](https://www.linkedin.com/in/milad-alghosi-front-end/) |
+| Fateme Fallah | [LinkedIn](https://www.linkedin.com/in/fatemefallah/) |
+| Kavian AmirMozafari | [Linkedin](https://www.linkedin.com/in/kavian-amirmozafari-51578a166/) |
 | Zahra Gholami | [Linkedin](https://www.linkedin.com/in/zahra-gholami-moghadam-b93441223) |
+
+
+
