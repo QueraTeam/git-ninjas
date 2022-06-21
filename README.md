@@ -227,6 +227,7 @@ If you've finished the course, please add your name and one of your social pages
 | Zahra Gholami | [Linkedin](https://www.linkedin.com/in/zahra-gholami-moghadam-b93441223) |
 | Alireza Sadeghi | [Linkedin](https://www.linkedin.com/in/alireza-sadeghi-051467201/) |
 | Elaheh Kafashi | [Linkedin](https://www.linkedin.com/in/elaheh-kafashi-9b12aba0/) |
+| Sayed Mohammad Hashemi | [Linkedin](https://www.linkedin.com/in/mohammad-hashemi1997/) |
 
 
 
