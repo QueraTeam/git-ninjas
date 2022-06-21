@@ -220,6 +220,7 @@ If you've finished the course, please add your name and one of your social pages
 | Aida Mohaghegh Zade | [GitHub](https://github.com/aidamzz) |
 | Mahan Salami | [Linkedin](https://www.linkedin.com/in/mahan-salami-2ba6bb216/) |
 | ALi Feghhi Kouchehbaq | [Linkedin](https://www.linkedin.com/in/alifeghhi-13721220/) |
+| Ali Darvishi | [Linkedin](https://www.linkedin.com/in/ali-darvishi-457d74233/) |
 
 
 
