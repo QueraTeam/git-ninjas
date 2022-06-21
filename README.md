@@ -238,6 +238,7 @@ If you've finished the course, please add your name and one of your social pages
 | Ali Kiani Nejad | [Github](https://github.com/itskiani) |
 | Mohammad Sajjad Ghanbarloo | [Quera](https://quera.org/profile/sajjadghl) |
 | Masoud Hesami | [Linkedin](https://www.linkedin.com/in/masoud-hesami/) |
+| Ali Rahimi | [Linkedin](https://www.linkedin.com/in/ali-rahimi-6030b7225/) |
 
 
 
