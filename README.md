@@ -218,6 +218,7 @@ If you've finished the course, please add your name and one of your social pages
 | Amin Darabnia | [Linkedin](https://www.linkedin.com/in/amin-darabniya/) |
 | Mohammadreza Ziadiparast | [Linkedin](https://ir.linkedin.com/in/ziadiparast) |
 | Aida Mohaghegh Zade | [GitHub](https://github.com/aidamzz) |
+| Mahan Salami | [Linkedin](https://www.linkedin.com/in/mahan-salami-2ba6bb216/) |
 
 
 
