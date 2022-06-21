@@ -234,5 +234,8 @@ If you've finished the course, please add your name and one of your social pages
 | Siamak Amoozgar | [GitHub](https://github.com/issFreeProjects) [Telegram](https://t.me/siamak4mo) |
 | Mohammad Yousefiyan | [GitHub](https://github.com/MohammadYSF) |
 | Ali Mostaghimi | [Linkedin](https://www.linkedin.com/in/ali-mostaghimi/) |
+| Ali Hassani SokhtehSaraei | [GitHub](https://github.com/alihassanisokhtehsaraei) |
+
+
 
 
