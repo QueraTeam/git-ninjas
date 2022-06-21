@@ -222,6 +222,7 @@ If you've finished the course, please add your name and one of your social pages
 | ALi Feghhi Kouchehbaq | [Linkedin](https://www.linkedin.com/in/alifeghhi-13721220/) |
 | Ali Darvishi | [Linkedin](https://www.linkedin.com/in/ali-darvishi-457d74233/) |
 | Milad(MohammadJavad) Alghosi | [Linkedin](https://www.linkedin.com/in/milad-alghosi-front-end/) |
+| Fateme Fallah | [LinkedIn](https://www.linkedin.com/in/fatemefallah/) |
 
 
 
