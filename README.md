@@ -206,6 +206,7 @@ If you've finished the course, please add your name and one of your social pages
 | Mohsen Tajik | [GitHub](https://github.com/tajikmohsen) |
 | Mohammad Hamed Jabbarkhani | [Linkedin](https://www.linkedin.com/in/jabbarkhani/) |
 | Mahdi Mozaffari | [GitHub](https://github.com/thisismz) |
+| Soheil Nikroo | [GitHub](https://github.com/soheilnikroo) |
 
 
 
