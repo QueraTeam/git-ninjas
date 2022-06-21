@@ -217,6 +217,7 @@ If you've finished the course, please add your name and one of your social pages
 | Pouya abedpour | [Instagram](https://www.instagram.com/pouya_abedpour/) |
 | Amin Darabnia | [Linkedin](https://www.linkedin.com/in/amin-darabniya/) |
 | Mohammadreza Ziadiparast | [Linkedin](https://ir.linkedin.com/in/ziadiparast) |
+| Aida Mohaghegh Zade | [GitHub](https://github.com/aidamzz) |
 
 
 
