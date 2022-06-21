@@ -214,6 +214,7 @@ If you've finished the course, please add your name and one of your social pages
 | Morteza Moradi | [Linkedin](https://www.linkedin.com/in/morteza-moradi-a6a77317a/) |
 | Mohammad Hassan Ahmadi| [Linkedin](https://www.linkedin.com/in/ahmadi-hassan/) |
 | Mahdi Hamidi | [Quera](https://quera.org/profile/mahdihamidi) |
+| Pouya abedpour | [Instagram](https://www.instagram.com/pouya_abedpour/) |
 
 
 
