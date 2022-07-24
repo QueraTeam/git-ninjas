@@ -64,6 +64,7 @@ If you've finished the course, please add your name and one of your social pages
 | Mohammad Sherafati | [Linkedin](https://www.linkedin.com/in/mohammad-sherafati7/) |
 | Ali Ghaffari Sabet | [Linkedin](https://www.linkedin.com/in/ali-ghaffari-sabet-798844197/) |
 | Mahdi Bani | [Telegram](https://t.me/mahdi_911) |
+| Parham Soltani | [Github](https://github.com/parhamsoltani) |
 | AmirMohammad Hosseini Nasab | [Linkedin](https://www.linkedin.com/in/itsamirhn/) |
 | Rasoul Ajormal | [Instagram](https://www.instagram.com/rasul.ajormal/) |
 | Salar Sabeti | [LinkedIn](https://www.linkedin.com/in/salar-sabeti/) |
@@ -241,5 +242,5 @@ If you've finished the course, please add your name and one of your social pages
 | Ali Rahimi | [Linkedin](https://www.linkedin.com/in/ali-rahimi-6030b7225/) |
 | Seyyed Mohamad Sajjadian | [Linkdein](https://www.linkedin.com/in/mohamadsajjadian) |
 | Atousa Toghyani | [Linkedin](https://www.linkedin.com/in/atousat/) |
-| Parham Soltani | [Github](https://github.com/parhamsoltani)
+
 
