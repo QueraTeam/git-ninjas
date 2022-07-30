@@ -241,6 +241,6 @@ If you've finished the course, please add your name and one of your social pages
 | Ali Rahimi | [Linkedin](https://www.linkedin.com/in/ali-rahimi-6030b7225/) |
 | Seyyed Mohamad Sajjadian | [Linkdein](https://www.linkedin.com/in/mohamadsajjadian) |
 | Atousa Toghyani | [Linkedin](https://www.linkedin.com/in/atousat/) |
-
+| Ali Alizade Nikoo | [Linkedin](https://www.linkedin.com/in/AliAlizadeNikoo/) |
 
 
