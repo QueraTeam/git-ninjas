@@ -243,6 +243,6 @@ If you've finished the course, please add your name and one of your social pages
 | Atousa Toghyani | [Linkedin](https://www.linkedin.com/in/atousat/) |
 | Meysam Naghavi | [Linkedin](https://www.linkedin.com/in/meysamnaghavi/) |
 | Mohammad Valadi | [GitHub](https://github.com/movalipa) [Telegram](https://t.me/movalipa) |
-
+| Kian Kamgar | [Linkedin](https://www.linkedin.com/in/kiankamgar) |
 
 
