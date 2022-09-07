@@ -262,7 +262,7 @@ If you've finished the course, please add your name and one of your social pages
 | Mohammed Mahdi Farnia | [GitHub](https://github.com/mahdi-farnia/) |
 | Amir Hejazi | [Linkedin](www.linkedin.com/in/amir-hejazi-0a82b6233/) |
 | Mohammad Moradi | [Linkedin](https://www.linkedin.com/in/mohammad-moradii/) | 
-
+| Nariman Jafari Eshlaghi | [Linkedin](https://www.linkedin.com/in/narimanjafari/) |
 
 
 
