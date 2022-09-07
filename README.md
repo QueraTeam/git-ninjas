@@ -61,10 +61,10 @@ If you've finished the course, please add your name and one of your social pages
 | Alireza Selseleh | [Linkedin](https://www.linkedin.com/in/alireza-selseleh-334b36189/) |
 | Mohsen Bagheri | [Quera](https://quera.ir/profile/MohsenBg) |
 | Javad Zarezadeh | [Linkedin](https://www.linkedin.com/in/javadzarezadeh/) |
-| Mohammad Sherafati | [Linkedin](https://www.linkedin.com/in/mohammad-sherafati7/) |
-| Ali Ghaffari Sabet | [Linkedin](https://www.linkedin.com/in/ali-ghaffari-sabet-798844197/) |
-| Mahdi Bani | [Telegram](https://t.me/mahdi_911) |
-| AmirMohammad Hosseini Nasab | [Linkedin](https://www.linkedin.com/in/itsamirhn/) |
+| Mohammad Sherafati | [Linkedin](https://www.linkedin.com/in/mohammad-sherafati7/) | 
+| Ali Ghaffari Sabet | [Linkedin](https://www.linkedin.com/in/ali-ghaffari-sabet-798844197/) | 
+| Mahdi Bani | [Telegram](https://t.me/mahdi_911) | 
+| AmirMohammad Hosseini Nasab | [Linkedin](https://www.linkedin.com/in/itsamirhn/) | 
 | Rasoul Ajormal | [Instagram](https://www.instagram.com/rasul.ajormal/) |
 | Salar Sabeti | [LinkedIn](https://www.linkedin.com/in/salar-sabeti/) |
 | Mahdi Sadeghi | [Twitter](https://twitter.com/mosaddde) |
@@ -247,6 +247,7 @@ If you've finished the course, please add your name and one of your social pages
 | Mehdi Shavandi | [Linkedin](https://www.linkedin.com/in/mhdishavandi) |
 | Hasan Ardestani | [Linkedin](https://www.linkedin.com/in/hassan-ardestani-42a135225) |
 | Mahan Jafari | [Linkedin](https://www.linkedin.com/in/mahanjafarii/) |
+| Sima Mousavi | [Linkedin](https://www.linkedin.com/in/sima-mousavi-716935212) |
 
 
 
