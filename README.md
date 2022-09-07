@@ -255,6 +255,7 @@ If you've finished the course, please add your name and one of your social pages
 | Ali Padyav | [Github](https://github.com/alumpish) |
 | Mehdi Jahani | [Twitter](https://twitter.com/mehdijahani1998) |
 | Safiye Samadanian | [Linkedin](www.linkedin.com/in/safiye-samadanian-8b197620a) |
+| Mohammad Hosein Barati | [Linkedin](www.linkedin.com/in/mh-barati) |
 
 
 
