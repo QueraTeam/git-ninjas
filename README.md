@@ -252,6 +252,8 @@ If you've finished the course, please add your name and one of your social pages
 | Amirhossein Pourimanshad | [Github](https://github.com/AmirManshadi) |
 | Alireza Javid | [Github](https://github.com/ajavid34/) |
 | Ali Alizade Nikoo | [Linkedin](https://www.linkedin.com/in/AliAlizadeNikoo/) |
+| Ali Padyav | [Github](https://github.com/alumpish) |
+
 
 
 
