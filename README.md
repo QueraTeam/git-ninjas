@@ -248,7 +248,7 @@ If you've finished the course, please add your name and one of your social pages
 | Hasan Ardestani | [Linkedin](https://www.linkedin.com/in/hassan-ardestani-42a135225) |
 | Mahan Jafari | [Linkedin](https://www.linkedin.com/in/mahanjafarii/) |
 | Sima Mousavi | [Linkedin](https://www.linkedin.com/in/sima-mousavi-716935212) |
-
+| Parham Soltani | [Github](https://github.com/parhamsoltani) |
 
 
 
