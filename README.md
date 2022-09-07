@@ -259,6 +259,7 @@ If you've finished the course, please add your name and one of your social pages
 | Mohammad Hosein Barati | [Linkedin](www.linkedin.com/in/mh-barati) |
 | AmirHossein Roodaki | [Linkedin](https://www.linkedin.com/in/amirhossein-roodaki/) |
 | Mahdi Asemani | [Linkedin](https://www.linkedin.com/in/cestmoimahdi/) |
+| Mohammed Mahdi Farnia | [GitHub](https://github.com/mahdi-farnia/) |
 
 
 
