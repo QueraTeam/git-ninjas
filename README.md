@@ -245,6 +245,8 @@ If you've finished the course, please add your name and one of your social pages
 | Mohammad Valadi | [GitHub](https://github.com/movalipa) [Telegram](https://t.me/movalipa) |
 | Amirhossein Bolouk Asli | [Linkedin](https://www.linkedin.com/in/amirhosseinbolouk/) |
 | Mehdi Shavandi | [Linkedin](https://www.linkedin.com/in/mhdishavandi) |
+| Hasan Ardestani | [Linkedin](https://www.linkedin.com/in/hassan-ardestani-42a135225) |
+
 
 
 
