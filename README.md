@@ -250,6 +250,7 @@ If you've finished the course, please add your name and one of your social pages
 | Sima Mousavi | [Linkedin](https://www.linkedin.com/in/sima-mousavi-716935212) |
 | Parham Soltani | [Github](https://github.com/parhamsoltani) |
 | Amirhossein Pourimanshad | [Github](https://github.com/AmirManshadi) |
+| Alireza Javid | [Github](https://github.com/ajavid34/) |
 
 
 
