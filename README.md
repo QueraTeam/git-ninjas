@@ -246,6 +246,7 @@ If you've finished the course, please add your name and one of your social pages
 | Amirhossein Bolouk Asli | [Linkedin](https://www.linkedin.com/in/amirhosseinbolouk/) |
 | Mehdi Shavandi | [Linkedin](https://www.linkedin.com/in/mhdishavandi) |
 | Hasan Ardestani | [Linkedin](https://www.linkedin.com/in/hassan-ardestani-42a135225) |
+| Mahan Jafari | [Linkedin](https://www.linkedin.com/in/mahanjafarii/) |
 
 
 
