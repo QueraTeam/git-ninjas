@@ -241,6 +241,12 @@ If you've finished the course, please add your name and one of your social pages
 | Ali Rahimi | [Linkedin](https://www.linkedin.com/in/ali-rahimi-6030b7225/) |
 | Seyyed Mohamad Sajjadian | [Linkdein](https://www.linkedin.com/in/mohamadsajjadian) |
 | Atousa Toghyani | [Linkedin](https://www.linkedin.com/in/atousat/) |
+| Meysam Naghavi | [Linkedin](https://www.linkedin.com/in/meysamnaghavi/) |
+| Mohammad Valadi | [GitHub](https://github.com/movalipa) [Telegram](https://t.me/movalipa) |
+| Amirhossein Bolouk Asli | [Linkedin](https://www.linkedin.com/in/amirhosseinbolouk/) |
+| Mehdi Shavandi | [Linkedin](https://www.linkedin.com/in/mhdishavandi) |
 | Hasan Ardestani | [Linkedin](https://www.linkedin.com/in/hassan-ardestani-42a135225) |
+
+
 
 
