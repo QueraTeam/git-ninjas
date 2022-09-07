@@ -258,6 +258,8 @@ If you've finished the course, please add your name and one of your social pages
 | Safiye Samadanian | [Linkedin](www.linkedin.com/in/safiye-samadanian-8b197620a) |
 | Mohammad Hosein Barati | [Linkedin](www.linkedin.com/in/mh-barati) |
 | AmirHossein Roodaki | [Linkedin](https://www.linkedin.com/in/amirhossein-roodaki/) |
+| Mahdi Asemani | [Linkedin](https://www.linkedin.com/in/cestmoimahdi/) |
+
 
 
 
