@@ -263,7 +263,7 @@ If you've finished the course, please add your name and one of your social pages
 | Amir Hejazi | [Linkedin](www.linkedin.com/in/amir-hejazi-0a82b6233/) |
 | Mohammad Moradi | [Linkedin](https://www.linkedin.com/in/mohammad-moradii/) | 
 | Nariman Jafari Eshlaghi | [Linkedin](https://www.linkedin.com/in/narimanjafari/) |
-
+| Fatemeh Abdollahi | [Linkedin](https://www.linkedin.com/in/fatemeh-abdollahi-0a99ab21a) |
 
 
 
