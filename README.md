@@ -266,7 +266,7 @@ If you've finished the course, please add your name and one of your social pages
 | Fatemeh Abdollahi | [Linkedin](https://www.linkedin.com/in/fatemeh-abdollahi-0a99ab21a) |
 | Pouya Momvandi | [GitHub](https://github.com/Pouyamd) |
 | Kian Kamgar | [Linkedin](https://www.linkedin.com/in/kiankamgar) |
-| Ali Nankali | [Linkedin](https://www.linkedin.com/in/ali-nankali) |
+| Ali Nankali | [Linkedin](https://www.linkedin.com/in/ali-nankali-3a267a244) |
 
 
 
