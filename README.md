@@ -4,7 +4,7 @@
 
 This repo is about our [Practical Git](https://quera.ir/college/land/register/8241/) course, and contains a list of users that successfully finished the course.
 
-## Add your name
+| Pouria Ferasatkia | [Linkedin](https://www.linkedin.com/in/pouria-ferasatkia-701438220) |
 
 If you've finished the course, please add your name and one of your social pages (e.g. LinkedIn, Twitter, Instagram, ...) in a Pull Request.
 
