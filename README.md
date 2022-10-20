@@ -9,14 +9,14 @@ This repo is about our [Practical Git](https://quera.ir/college/land/register/82
 If you've finished the course, please add your name and one of your social pages (e.g. LinkedIn, Twitter, Instagram, ...) in a Pull Request.
 
 
-|Full Name| Social Address | 
-|--|--| 
-| Seyed Ali Babaei | [Linkedin](https://www.linkedin.com/in/mrsalib/) | 
-| Ali Shafiee | [Linkedin](https://www.linkedin.com/in/ali-shafiee-688446168/) | 
-| Saeid Zamani | [LinkedIn](https://www.linkedin.com/in/saeid-zamani-041148195/) | 
+|Full Name| Social Address |
+|--|--|
+| Seyed Ali Babaei | [Linkedin](https://www.linkedin.com/in/mrsalib/) |
+| Ali Shafiee | [Linkedin](https://www.linkedin.com/in/ali-shafiee-688446168/) |
+| Saeid Zamani | [LinkedIn](https://www.linkedin.com/in/saeid-zamani-041148195/) |
 | Mahyar Riazati| [Linkedin](https://www.linkedin.com/in/mhyrzt/)|
-| Ali Safinal | [Linkedin](https://www.linkedin.com/in/safinal/) | 
-| Peyman Najafi | [Quera](https://quera.ir/profile/peyman) | 
+| Ali Safinal | [Linkedin](https://www.linkedin.com/in/safinal/) |
+| Peyman Najafi | [Quera](https://quera.ir/profile/peyman) |
 | Mohammad Shafei | [Linkedin](https://www.linkedin.com/in/mohammad-shafei-6b2486202/) |
 | Yousef Mahdipoor | [Linkedin](https://www.linkedin.com/in/yousef-mahdipoor/) |
 | Nima HeydariNasab | [Linkedin](https://www.linkedin.com/in/nimah79/) |
@@ -62,10 +62,10 @@ If you've finished the course, please add your name and one of your social pages
 | Alireza Selseleh | [Linkedin](https://www.linkedin.com/in/alireza-selseleh-334b36189/) |
 | Mohsen Bagheri | [Quera](https://quera.ir/profile/MohsenBg) |
 | Javad Zarezadeh | [Linkedin](https://www.linkedin.com/in/javadzarezadeh/) |
-| Mohammad Sherafati | [Linkedin](https://www.linkedin.com/in/mohammad-sherafati7/) | 
-| Ali Ghaffari Sabet | [Linkedin](https://www.linkedin.com/in/ali-ghaffari-sabet-798844197/) | 
-| Mahdi Bani | [Telegram](https://t.me/mahdi_911) | 
-| AmirMohammad Hosseini Nasab | [Linkedin](https://www.linkedin.com/in/itsamirhn/) | 
+| Mohammad Sherafati | [Linkedin](https://www.linkedin.com/in/mohammad-sherafati7/) |
+| Ali Ghaffari Sabet | [Linkedin](https://www.linkedin.com/in/ali-ghaffari-sabet-798844197/) |
+| Mahdi Bani | [Telegram](https://t.me/mahdi_911) |
+| AmirMohammad Hosseini Nasab | [Linkedin](https://www.linkedin.com/in/itsamirhn/) |
 | Rasoul Ajormal | [Instagram](https://www.instagram.com/rasul.ajormal/) |
 | Salar Sabeti | [LinkedIn](https://www.linkedin.com/in/salar-sabeti/) |
 | Mahdi Sadeghi | [Twitter](https://twitter.com/mosaddde) |
@@ -77,7 +77,7 @@ If you've finished the course, please add your name and one of your social pages
 | Mahtab Ranjbar | [Linkedin](https://www.linkedin.com/in/mahtabranjbar/) |
 | Benyamin Beyzaie | [LinkedIn](https://www.linkedin.com/in/benyamin-beyzaie-719a4a112/) |
 | Mohammad Mansouri | [Linkedin](https://www.linkedin.com/in/mohammad-mansouri-737031201) |
-| Ali Radmanesh | [Linkedin](https://www.linkedin.com/in/ali-radmanesh-71038a131/) | 
+| Ali Radmanesh | [Linkedin](https://www.linkedin.com/in/ali-radmanesh-71038a131/) |
 | Hadi Torfi | [Linkedin](https://www.linkedin.com/in/hadi-torfi/) |
 | Moein Latifi | [Github](https://github.com/moeinl71) |
 | Reza Ahangarpour | [Github](https://github.com/RA19HS) |
@@ -126,7 +126,7 @@ If you've finished the course, please add your name and one of your social pages
 | Amin Seifi | [GitHub](https://github.com/mr-seifi) |
 | Mohammad Golzar | [Linkedin](https://www.linkedin.com/in/mohammad-golzar/) |
 | Saman Obeydzadeh | [Linkedin](https://www.linkedin.com/in/saman-obeydzadeh-bb667a195/) |
-| Amirali Kalantari Pour | [Github](https://github.com/amiralidev) | 
+| Amirali Kalantari Pour | [Github](https://github.com/amiralidev) |
 | Alireza Khorshidi | [Linkedin](https://www.linkedin.com/in/alireza-khorshidi-63b439180/) |
 | AmirHossein Razlighi | [Linkedin](https://www.linkedin.com/in/amirhossein-razlighi-435103116/) |
 | Foroozan Iraji | [GitHub](https://github.com/Forooz99) |
@@ -261,13 +261,10 @@ If you've finished the course, please add your name and one of your social pages
 | Mahdi Asemani | [Linkedin](https://www.linkedin.com/in/cestmoimahdi/) |
 | Mohammed Mahdi Farnia | [GitHub](https://github.com/mahdi-farnia/) |
 | Amir Hejazi | [Linkedin](www.linkedin.com/in/amir-hejazi-0a82b6233/) |
-| Mohammad Moradi | [Linkedin](https://www.linkedin.com/in/mohammad-moradii/) | 
+| Mohammad Moradi | [Linkedin](https://www.linkedin.com/in/mohammad-moradii/) |
 | Nariman Jafari Eshlaghi | [Linkedin](https://www.linkedin.com/in/narimanjafari/) |
 | Fatemeh Abdollahi | [Linkedin](https://www.linkedin.com/in/fatemeh-abdollahi-0a99ab21a) |
 | Pouya Momvandi | [GitHub](https://github.com/Pouyamd) |
 | Kian Kamgar | [Linkedin](https://www.linkedin.com/in/kiankamgar) |
 | Omid Akhgary | [Linkedin](https://www.linkedin.com/in/omidakhgary) |
-
-
-
-
+| Keyvan Rezaei Firouzjah | [Linkedin](https://www.linkedin.com/in/keyvan-rezaei-firozjah-5530841b8/) |
