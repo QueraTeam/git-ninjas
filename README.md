@@ -267,7 +267,7 @@ If you've finished the course, please add your name and one of your social pages
 | Pouya Momvandi | [GitHub](https://github.com/Pouyamd) |
 | Kian Kamgar | [Linkedin](https://www.linkedin.com/in/kiankamgar) |
 | Omid Akhgary | [Linkedin](https://www.linkedin.com/in/omidakhgary) |
-
+| Hossein Gholam Hossein Nia | [Linkedin](https://www.linkedin.com/in/hossein-gholam-hossein-nia-b01263208/) [GitHub](https://github.com/Goo-DarTimejar) [Telegram](https://t.me/Goo_DarTimejar) |
 
 
 
