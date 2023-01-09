@@ -267,7 +267,4 @@ If you've finished the course, please add your name and one of your social pages
 | Pouya Momvandi | [GitHub](https://github.com/Pouyamd) |
 | Kian Kamgar | [Linkedin](https://www.linkedin.com/in/kiankamgar) |
 | Omid Akhgary | [Linkedin](https://www.linkedin.com/in/omidakhgary) |
-
-
-
-
+| Alireza Asadi | [Linkedin](https://www.linkedin.com/in/alireza-asadi-858554162) |
