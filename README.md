@@ -10,7 +10,7 @@ If you've finished the course, please add your name and one of your social pages
 
 
 |Full Name| Social Address | 
-|Hossein Kiaee|[Linkedin](https://www.linkedin.com/in/hosseinkia75/) |
+|--|--| 
 | Seyed Ali Babaei | [Linkedin](https://www.linkedin.com/in/mrsalib/) | 
 | Ali Shafiee | [Linkedin](https://www.linkedin.com/in/ali-shafiee-688446168/) | 
 | Saeid Zamani | [LinkedIn](https://www.linkedin.com/in/saeid-zamani-041148195/) | 
@@ -267,7 +267,7 @@ If you've finished the course, please add your name and one of your social pages
 | Pouya Momvandi | [GitHub](https://github.com/Pouyamd) |
 | Kian Kamgar | [Linkedin](https://www.linkedin.com/in/kiankamgar) |
 | Omid Akhgary | [Linkedin](https://www.linkedin.com/in/omidakhgary) |
-
+| Hossein Kiaee | [Linkedin](https://www.linkedin.com/in/hosseinkia75/) |
 
 
 
