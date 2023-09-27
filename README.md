@@ -268,6 +268,7 @@ If you've finished the course, please add your name and one of your social pages
 | Kian Kamgar | [Linkedin](https://www.linkedin.com/in/kiankamgar) |
 | Omid Akhgary | [Linkedin](https://www.linkedin.com/in/omidakhgary) |
 | Mohammad Rezaei | [Linkedin](https://www.linkedin.com/in/mohammadrezaei5/) |
+| Davood Hakimi | [Linkedin](https://www.linkedin.com/in/davood-hakimi-83a1b3234/) |
 
 
 
