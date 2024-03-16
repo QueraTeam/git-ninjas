@@ -268,6 +268,6 @@ If you've finished the course, please add your name and one of your social pages
 | Kian Kamgar | [Linkedin](https://www.linkedin.com/in/kiankamgar) |
 | Omid Akhgary | [Linkedin](https://www.linkedin.com/in/omidakhgary) |
 | Mohammad Rezaei | [Linkedin](https://www.linkedin.com/in/mohammadrezaei5/) |
-
+| Hanane Alijani | [Linkedin](https://www.linkedin.com/in/hanane-alijani-1a48b420a) |
 
 
