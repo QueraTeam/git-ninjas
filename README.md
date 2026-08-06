@@ -37,6 +37,7 @@ If you've finished the course, please add your name and one of your social pages
 | Roozbeh Dargahi | [Quera](https://quera.ir/profile/RoozbehDK) |
 | Sobhan Safdarian | [Quera](https://quera.ir/profile/sobhan.saf79) |
 | Mohammad Hussein Vaez | [Twitter](https://twitter.com/Mohuva13) |
+| yashar zavary rezaie | [Linkedin](https://www.linkedin.com/in/yashar-zavary-rezaie/) |
 | Mohammad Amini Nasab | [Linkedin](linkedin.com/in/mohammad-amini-nasab-093ab418a)|
 | Muhammad Mahdi Naghibi | [Linkedin](https://www.linkedin.com/in/seyed-muhammad-mahdi-naghibi/) |
 | Pooria Faghfoori | [Linkedin](https://www.linkedin.com/in/pooria-faghfoori-850965202/) |
