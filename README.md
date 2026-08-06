@@ -23,6 +23,7 @@ If you've finished the course, please add your name and one of your social pages
 | Alireza Rezazadeh | [Linkedin](https://www.linkedin.com/in/alireza-rezazadeh-3277191b5/) |
 | Seyed Omid Mazlomy | [Linkedin](https://www.linkedin.com/in/omid-mazlomy-0162b3159/) |
 | Seyed Masoud Hosseini | [Linkedin](https://www.linkedin.com/in/seyedmasoud-hosseini/) |
+| Hiwa Shaloudegi | [Linkedin](https://www.linkedin.com/in/hiwa-shaloudegi/) |
 | Mehdi Mostafavi | [Linkedin](https://www.linkedin.com/in/mehdimstv/) |
 | Alireza Vahidi | [Linkedin](https://www.linkedin.com/in/alireza-vahidi-633168181/) |
 | Mahan Maleki| [Linkedin](www.linkedin.com/in/mahan-maleki-5a7b97179)|
