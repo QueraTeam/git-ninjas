@@ -9,7 +9,7 @@ This repo is about our [Practical Git](https://quera.ir/college/land/register/82
 If you've finished the course, please add your name and one of your social pages (e.g. LinkedIn, Twitter, Instagram, ...) in a Pull Request.
 
 
-|Full Name| Social Address | 
+|Golnoosh Shahidi| [Linkedin](https://www.linkedin.com/in/golnoosh-shahidi-23b0042b3/) | 
 |--|--| 
 | Seyed Ali Babaei | [Linkedin](https://www.linkedin.com/in/mrsalib/) | 
 | Ali Shafiee | [Linkedin](https://www.linkedin.com/in/ali-shafiee-688446168/) | 
