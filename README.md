@@ -269,6 +269,6 @@ If you've finished the course, please add your name and one of your social pages
 | Omid Akhgary | [Linkedin](https://www.linkedin.com/in/omidakhgary) |
 | Mohammad Rezaei | [Linkedin](https://www.linkedin.com/in/mohammadrezaei5/) |
 | Mohammad Aghajani Asl | [Linkedin](https://www.linkedin.com/in/mohammad-aghajani-asl/) |
-
+| Armita Koleini | [Linkedin](https://www.linkedin.com/in/armita-koleini/) |
 
 
