@@ -269,6 +269,7 @@ If you've finished the course, please add your name and one of your social pages
 | Omid Akhgary | [Linkedin](https://www.linkedin.com/in/omidakhgary) |
 | Mohammad Rezaei | [Linkedin](https://www.linkedin.com/in/mohammadrezaei5/) |
 | Mohammad Aghajani Asl | [Linkedin](https://www.linkedin.com/in/mohammad-aghajani-asl/) |
+| Hossein Modarresi Movahed | [Linkedin](https://www.linkedin.com/in/hossein-modarresi-movahed-703b64206/) |
 
 
 
